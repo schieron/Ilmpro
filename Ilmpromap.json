@@ -85,7 +85,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/www.antennethueringen.de\/radioplayer\/at\/#"
+                 "value":"https:\/\/antenne-th.divicon-stream.net\/antth_atdeutsch_cbRE-mp3-192"
                 }],
          "type":"tilelayer",
          "visible":true,
