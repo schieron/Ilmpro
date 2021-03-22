@@ -266,7 +266,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/simon2409.github.io\/tdot-test\/map.json"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/simon2409.github.io\/tdot-test\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
