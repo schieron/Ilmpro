@@ -202,7 +202,17 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/RkdUqNPqmXI"
+                 "value":"https:\/\/www.youtube.com\/embed\/RkdUqNPqmXI?autoplay=1"
+                }, 
+                {
+                 "name":"openWebsitePolicy\t",
+                 "type":"string",
+                 "value":"fullscreen;autoplay"
+                }, 
+                {
+                 "name":"openWebsiteTrigger ",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":false,
