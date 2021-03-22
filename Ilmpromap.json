@@ -121,11 +121,6 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"buehne"
-                }, 
-                {
-                 "name":"jitsiTrigger",
-                 "type":"string",
-                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
