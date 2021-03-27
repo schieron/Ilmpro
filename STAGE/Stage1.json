@@ -94,7 +94,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/antenne-th.divicon-stream.net\/antth_atdeutsch_cbRE-mp3-192"
+                 "value":"--streamurl--"
                 }],
          "type":"tilelayer",
          "visible":true,
