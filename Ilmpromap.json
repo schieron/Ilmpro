@@ -34,7 +34,7 @@
                  "value":"..\/..\/..\/probe\/schieron.github.io\/Ilmpro\/STAGE\/Stage1.json"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -52,7 +52,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -67,7 +67,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"\/misc\/audio\/"
+                 "value":"--streamurl--"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -88,7 +88,7 @@
                  "value":"https:\/\/antenne-th.divicon-stream.net\/antth_atdeutsch_cbRE-mp3-192"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -111,7 +111,7 @@
                  "value":"onaction"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -129,7 +129,7 @@
                  "value":"..\/..\/..\/global\/schieron.github.io\/Ilmpro\/Ilmpromap.json\n"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -152,7 +152,7 @@
                  "value":"fullscreen"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -180,7 +180,7 @@
                  "value":"onaction"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -198,7 +198,7 @@
                  "value":"https:\/\/play.world.fem-net.de\/_\/global\/maps.world.fem-net.de\/bc-WA\/bc.json"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -221,7 +221,7 @@
                  "value":"buehne"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -239,7 +239,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -251,7 +251,7 @@
          "name":"Kachelebene 1",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -263,7 +263,7 @@
          "name":"logo",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -275,7 +275,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }, 
@@ -292,7 +292,7 @@
                  "value":"\/misc\/audio\/DerDunkleLord.mp3"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
@@ -304,7 +304,7 @@
          "name":"spots",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":100,
          "x":0,
          "y":0
