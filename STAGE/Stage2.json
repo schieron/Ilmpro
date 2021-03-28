@@ -16,7 +16,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":19,
          "x":0,
          "y":0
@@ -28,7 +28,7 @@
          "name":"colliders",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":19,
          "x":0,
          "y":0
@@ -56,7 +56,7 @@
                  "value":"onaction"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":19,
          "x":0,
          "y":0
@@ -79,7 +79,7 @@
                  "value":"fullscreen,autoplay"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":19,
          "x":0,
          "y":0
@@ -115,7 +115,7 @@
                  "value":"..\/..\/..\/..\/global\/schieron.github.io\/Ilmpro\/foyer.json#eingangStage2"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":19,
          "x":0,
          "y":0
@@ -160,7 +160,7 @@
                  "value":"onaction"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":19,
          "x":0,
          "y":0
@@ -172,7 +172,7 @@
          "name":"Background",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":19,
          "x":0,
          "y":0
@@ -184,7 +184,7 @@
          "name":"Stage",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":19,
          "x":0,
          "y":0
@@ -196,7 +196,7 @@
          "name":"border",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":19,
          "x":0,
          "y":0
@@ -208,7 +208,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -219,7 +219,7 @@
          "name":"backStrage",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":19,
          "x":0,
          "y":0
@@ -237,7 +237,7 @@
                  "value":""
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":19,
          "x":0,
          "y":0
@@ -249,7 +249,7 @@
          "name":"buehenhocker",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":19,
          "x":0,
          "y":0

@@ -79,7 +79,7 @@
                  "value":"fullscreen,autoplay"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":19,
          "x":0,
          "y":0
