@@ -218,6 +218,12 @@
          "id":13,
          "name":"piano",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":"https:\/\/antenne-th.divicon-stream.net\/antth_atdeutsch_cbRE-mp3-192"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":39,
