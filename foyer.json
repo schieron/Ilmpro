@@ -146,6 +146,12 @@
          "id":33,
          "name":"eingangStage1",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":39,
@@ -158,6 +164,12 @@
          "id":35,
          "name":"eingangStage2",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":39,
