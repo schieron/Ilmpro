@@ -112,7 +112,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/..\/..\/..\/global\/schieron.github.io\/Ilmpro\/foyer.json#entrIlmproF"
+                 "value":"..\/..\/..\/..\/global\/schieron.github.io\/Ilmpro\/foyer.json#eingangStage1"
                 }],
          "type":"tilelayer",
          "visible":true,
