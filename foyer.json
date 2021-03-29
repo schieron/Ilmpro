@@ -49,7 +49,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/chat.restream.io\/embed?token=a1d74412-c377-4fd5-b246-7a133d473c3c](https:\/\/chat.restream.io\/embed?token=a1d74412-c377-4fd5-b246-7a133d473c3c)"
+                 "value":"https:\/\/chat.restream.io\/embed?token=a1d74412-c377-4fd5-b246-7a133d473c3c"
                 }],
          "type":"tilelayer",
          "visible":true,
