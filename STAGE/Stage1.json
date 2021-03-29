@@ -94,7 +94,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"--streamurl--"
+                 "value":"rtmp:\/\/live.restream.io\/live"
                 }],
          "type":"tilelayer",
          "visible":true,
