@@ -71,7 +71,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"\/ronroule_twitch.html"
+                 "value":".\/ronroule_twitch.html"
                 }, 
                 {
                  "name":"openWebsitePolicy",
