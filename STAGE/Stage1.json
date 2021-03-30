@@ -71,7 +71,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/embed.twitch.tv?autoplay=true&amp;\n    channel=ronraoule&amp;height=480&amp;migration=true&amp;parent=play.world.fem-net.de&amp;parent=schieron.github.io&amp;\n\treferrer=https%3A%2F%2Fschieron.github.io%2FIlmpro%2FSTAGE%2Fronroule_twitch.html&amp;\n\ttheme=dark&amp;width=940\" \n\tallowfullscreen=\"\" \n\tscrolling=\"no\" \n\tallow=\"autoplay; fullscreen\" \n\ttitle=\"Twitch\" \n\tsandbox=\"allow-modals allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-storage-access-by-user-activation\" \nwidth=\"940\" height=\"480\" frameborder=\"0\""
+                 "value":".\/ronroule_twitch.html"
                 }, 
                 {
                  "name":"openWebsitePolicy",
