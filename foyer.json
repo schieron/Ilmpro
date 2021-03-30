@@ -403,7 +403,7 @@
          "name":"bar",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
