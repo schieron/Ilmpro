@@ -43,7 +43,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/RkdUqNPqmXI?autoplay=1"
+                 "value":".\/ronroule_youtube.html"
                 }, 
                 {
                  "name":"openWebsitePolicy\t",
@@ -71,12 +71,17 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/embed.twitch.tv\/?autoplay=false&channel=ronraoule&height=480&migration=true&parent=play.world.fem-net.de&theme=dark"
+                 "value":".\/ronroule_twitch.html"
                 }, 
                 {
                  "name":"openWebsitePolicy",
                  "type":"string",
-                 "value":"fullscreen,autoplay"
+                 "value":"fullscreen autoplay allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-popups allow-popups-to-escape-sandbox allow-modals"
+                }, 
+                {
+                 "name":"openWebsittrigger",
+                 "type":"string",
+                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
