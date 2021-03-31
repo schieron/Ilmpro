@@ -43,7 +43,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/RkdUqNPqmXI?autoplay=1"
+                 "value":".\/ronroule_youtube.html"
                 }, 
                 {
                  "name":"openWebsitePolicy\t",
