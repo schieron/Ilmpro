@@ -592,6 +592,12 @@
          "id":48,
          "name":"willkommen2",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":"..\/misc\/audio\/willkommen2.mp3"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":39,
@@ -608,7 +614,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":""
+                 "value":"..\/misc\/audio\/willkommen.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
