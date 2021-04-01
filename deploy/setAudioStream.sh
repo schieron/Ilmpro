@@ -70,10 +70,8 @@ esac
 
 live=0
 
-if [$live eq 1] 
-then
-STREAM_URL=$(sed 's|/|\\/|g' <<< ${STREAM_LIVE_URLS[1]})
-     ;;
+if (( $live == 1 )); then
+   STREAM_URL=$(sed 's|/|\\/|g' <<< ${STREAM_LIVE_URLS[1]});
 fi
 
 echo "Stream URL: $STREAM_URL"
