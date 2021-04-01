@@ -117,7 +117,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":" https:\/\/antenne-th.divicon-stream.net\/antth_atdeutsch_cbRE-mp3-192"
+                 "value":" https:\/\/morty.fem.tu-ilmenau.de\/icecast\/impro.opus"
                 }],
          "type":"tilelayer",
          "visible":true,
