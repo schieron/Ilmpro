@@ -596,7 +596,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"..\/misc\/audio\/willkommen2.mp3"
+                 "value":".\/misc\/audio\/willkommen2.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -614,7 +614,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"..\/misc\/audio\/willkommen.mp3"
+                 "value":".\/misc\/audio\/willkommen.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
