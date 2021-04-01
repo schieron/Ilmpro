@@ -66,6 +66,14 @@ case $MODE in
      STREAM_URL=$(sed 's|/|\\/|g' <<< ${STREAM_DAY_URLS[$DOW]})
      ;;
 esac
+
+
+if [$live eq 1] 
+then
+STREAM_URL=$(sed 's|/|\\/|g' <<< ${"https://morty.fem.tu-ilmenau.de/icecast/impro.opus"})
+     ;;
+fi
+
 echo "Stream URL: $STREAM_URL"
 
 

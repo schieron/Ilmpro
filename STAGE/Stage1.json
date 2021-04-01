@@ -129,7 +129,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"rtmp:\/\/live.restream.io\/live"
+                 "value":"https:\/\/morty.fem.tu-ilmenau.de\/icecast\/impro.opus"
                 }],
          "type":"tilelayer",
          "visible":true,
