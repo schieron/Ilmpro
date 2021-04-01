@@ -38,6 +38,7 @@ STREAM_DAY_URLS[6]="https://stream.radioparadise.com/mp3-128"
 STREAM_NIGHT_URLS[6]="https://mp3.ffh.de/ffhchannels/hqsoundtrack.mp3"
 STREAM_DAY_URLS[7]="https://bob.hoerradar.de/radiobob-gothic-mp3-hq"
 STREAM_NIGHT_URLS[7]="https://usa15.fastcast4u.com/proxy/tstamate?mp=/stream?lang=de%2cen%3bq%3d0.7%2cen-US%3bq%3d0.3"
+STREAM_LIVE_URLS[1]="https://morty.fem.tu-ilmenau.de/icecast/impro.opus"
 
 
 PLACEHOLDER="--streamurl--"
@@ -67,10 +68,11 @@ case $MODE in
      ;;
 esac
 
+live=0
 
 if [$live eq 1] 
 then
-STREAM_URL=$(sed 's|/|\\/|g' <<< ${"https://morty.fem.tu-ilmenau.de/icecast/impro.opus"})
+STREAM_URL=$(sed 's|/|\\/|g' <<< ${STREAM_LIVE_URLS[1]})
      ;;
 fi
 
