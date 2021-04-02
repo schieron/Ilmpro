@@ -186,7 +186,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/..\/..\/global\/schieron.github.io\/Ilmpro\/STAGE\/Stage1.json"
+                 "value":"..\/..\/..\/global\/schieron.github.io\/Ilmpro\/STAGE\/Stage3.json"
                 }],
          "type":"tilelayer",
          "visible":true,
