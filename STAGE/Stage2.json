@@ -292,7 +292,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.menti.com\/ubrf586ufg"
+                 "value":"--mentiin--"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -310,7 +310,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/bit.ly\/3rDltzA"
+                 "value":"--mentiout--"
                 }],
          "type":"tilelayer",
          "visible":true,

@@ -215,7 +215,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/morty.fem.tu-ilmenau.de\/icecast\/impro.opus"
+                 "value":"--streamurl--"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -245,7 +245,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/bit.ly\/3rDltzA"
+                 "value":"--mentiout--"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -340,7 +340,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.mentimeter.com\/s\/f5856727f295ac45984f6f636e331200\/6437010bf5d1"
+                 "value":"--mentiin--"
                 }],
          "type":"tilelayer",
          "visible":true,

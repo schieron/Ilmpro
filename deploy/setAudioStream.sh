@@ -4,6 +4,9 @@ set -e
 declare -A STREAM_DAY_URLS
 declare -A STREAM_NIGHT_URLS
 declare STREAM_URL
+declare STREAM_MI
+declare STREAM_MO
+declare STREAM_INFOR
 TZ=Europe/Berlin
 export TZ
 
@@ -38,10 +41,21 @@ STREAM_DAY_URLS[6]="https://stream.radioparadise.com/mp3-128"
 STREAM_NIGHT_URLS[6]="https://mp3.ffh.de/ffhchannels/hqsoundtrack.mp3"
 STREAM_DAY_URLS[7]="https://bob.hoerradar.de/radiobob-gothic-mp3-hq"
 STREAM_NIGHT_URLS[7]="https://usa15.fastcast4u.com/proxy/tstamate?mp=/stream?lang=de%2cen%3bq%3d0.7%2cen-US%3bq%3d0.3"
-STREAM_LIVE_URLS[1]="https://morty.fem.tu-ilmenau.de/icecast/impro.opus"
+
+
+STREAM_LIVE_URLS="https://morty.fem.tu-ilmenau.de/icecast/impro.opus"
+MENTI_Input_URL = "https://www.mentimeter.com/s/f5856727f295ac45984f6f636e331200/6437010bf5d1"
+MENTI_Output_URL = "https://bit.ly/3rDltzA"
+Next_Auftritt_URL ="https://bit.ly/3fpaSpv"
+
 
 
 PLACEHOLDER="--streamurl--"
+
+PLACEHOLDERSTREAM="--streamurl--"
+PLACEHOLDERMENTI_INPUT="--mentiin--"
+PLACEHOLDERMENTI_OUTPUT="--mentiout--"
+PLACEHOLDERMENTI_INFO="--mentinfo--"
 
 function isDayOrNight {
  local hod
@@ -78,3 +92,18 @@ echo "Stream URL: $STREAM_URL"
 
 
 sed -i  "s/$PLACEHOLDER/$STREAM_URL/g" ./*.json
+
+
+STREAM_MI =$(sed 's|/|\\/|g' <<< ${MENTI_Input_URL})
+STREAM_MO =$(sed 's|/|\\/|g' <<< ${MENTI_Output_URL})
+STREAM_INFOR =$(sed 's|/|\\/|g' <<< ${MENTI_Output_URL})
+
+
+echo "Stream URL: $STREAM_URL"
+sed -i  "s/$PLACEHOLDERSTREAM/$STREAM_URL/g" ./*.json
+echo "Stream URL: $MENTI_INPUT_URL"
+sed -i  "s/$PLACEHOLDERMENTI_INPUT/$STREAM_MI/g" ./*.json
+echo "Stream URL: $MENTI_OUTPUT_URL"
+sed -i  "s/$PLACEHOLDERMENTI_OUTPUT/$STREAM_MO/g" ./*.json
+echo "Stream URL: $MENTI_INFO_URL"
+sed -i  "s/$PLACEHOLDERMENTI_INFO/$STREAM_INFOR/g" ./*.json

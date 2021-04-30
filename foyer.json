@@ -16,7 +16,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -34,7 +34,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -75,7 +75,7 @@
                  "value":"https:\/\/chat.restream.io\/embed?token=a1d74412-c377-4fd5-b246-7a133d473c3c"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -93,7 +93,7 @@
                  "value":"\/misc\/audio\/You_can_make_my_heart_smile_original_Klavier.mp3"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -105,7 +105,7 @@
          "name":"Background",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -117,7 +117,7 @@
          "name":"Klo",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -135,7 +135,7 @@
                  "value":"..\/..\/..\/global\/schieron.github.io\/Ilmpro\/STAGE\/Stage1.json"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -153,7 +153,7 @@
                  "value":"..\/..\/..\/global\/schieron.github.io\/Ilmpro\/STAGE\/Stage1.json"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -171,7 +171,7 @@
                  "value":"..\/..\/..\/probe\/schieron.github.io\/Ilmpro\/STAGE\/Stage2.json"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -189,7 +189,7 @@
                  "value":"..\/..\/..\/global\/schieron.github.io\/Ilmpro\/STAGE\/Stage3.json"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -207,7 +207,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -225,7 +225,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -243,7 +243,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -255,7 +255,7 @@
          "name":"zuganbuhne",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -267,7 +267,7 @@
          "name":"zugangsdeko",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -279,7 +279,7 @@
          "name":"zugangsdekovorhang",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -297,7 +297,7 @@
                  "value":"https:\/\/www.facebook.com\/IlmproKombinat"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -315,7 +315,7 @@
                  "value":"--streamurl--"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -327,7 +327,7 @@
          "name":"stuhl",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -350,7 +350,7 @@
                  "value":"Improtischfor2"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -388,7 +388,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/bit.ly\/3rDltzA"
+                 "value":"--mentiout--"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -406,10 +406,10 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/bit.ly\/3fpaSpv"
+                 "value":"--mentinfo--"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":39,
          "x":0,
          "y":0
@@ -421,7 +421,7 @@
          "name":"checkin1",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -433,7 +433,7 @@
          "name":"CheckIn",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -445,7 +445,7 @@
          "name":"Lounge1",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -457,7 +457,7 @@
          "name":"bar",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -469,7 +469,7 @@
          "name":"bardeko",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -487,7 +487,7 @@
                  "value":"\/misc\/audio\/You_can_make_my_heart_smile_original_Klavier.mp3"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -510,7 +510,7 @@
                  "value":"ImproStammtisch"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -533,7 +533,7 @@
                  "value":"ImprochatCaffe"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -545,7 +545,7 @@
          "name":"loungebackground",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -557,7 +557,7 @@
          "name":"lounge",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -572,10 +572,10 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.mentimeter.com\/s\/f5856727f295ac45984f6f636e331200\/6437010bf5d1"
+                 "value":"--mentiin--"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -647,7 +647,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }],
