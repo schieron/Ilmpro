@@ -7,6 +7,7 @@ declare STREAM_URL
 declare STREAM_MI
 declare STREAM_MO
 declare STREAM_INFOR
+
 TZ=Europe/Berlin
 export TZ
 
@@ -43,7 +44,7 @@ STREAM_DAY_URLS[7]="https://bob.hoerradar.de/radiobob-gothic-mp3-hq"
 STREAM_NIGHT_URLS[7]="https://usa15.fastcast4u.com/proxy/tstamate?mp=/stream?lang=de%2cen%3bq%3d0.7%2cen-US%3bq%3d0.3"
 
 
-STREAM_LIVE_URLS="https://morty.fem.tu-ilmenau.de/icecast/impro.opus"
+STREAM_LIVE_URL="https://morty.fem.tu-ilmenau.de/icecast/impro.opus"
 MENTI_Input_URL = "https://www.mentimeter.com/s/f5856727f295ac45984f6f636e331200/6437010bf5d1"
 MENTI_Output_URL = "https://bit.ly/3rDltzA"
 Next_Auftritt_URL ="https://bit.ly/3fpaSpv"
@@ -51,8 +52,6 @@ Next_Auftritt_URL ="https://bit.ly/3fpaSpv"
 
 
 PLACEHOLDER="--streamurl--"
-
-PLACEHOLDERSTREAM="--streamurl--"
 PLACEHOLDERMENTI_INPUT="--mentiin--"
 PLACEHOLDERMENTI_OUTPUT="--mentiout--"
 PLACEHOLDERMENTI_INFO="--mentinfo--"
@@ -85,7 +84,7 @@ esac
 live=1
 
 if (( $live == 1 )); then
-   STREAM_URL=$(sed 's|/|\\/|g' <<< ${STREAM_LIVE_URLS[1]})
+   STREAM_URL=$(sed 's|/|\\/|g' <<< ${STREAM_LIVE_URL)
 fi
 
 echo "Stream URL: $STREAM_URL"
