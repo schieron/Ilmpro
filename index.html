@@ -6,7 +6,8 @@
                 if (path.endsWith('index.html')) {
                     path = path.substr(path, path.length - 'index.html'.length);
                 }
-                var url = 'https://play.workadventu.re/_/global/'+window.location.host+path+'map.json';
+               // var url = 'https://play.workadventu.re/_/global/'+window.location.host+path+'map.json';
+                var url = 'https://play.world.fem-net.de//_/global/'+window.location.host+path+'map.json';
                 document.getElementById('mapLink').href = url;
                 document.getElementById('mapLink').innerText = url;
             };
@@ -14,7 +15,9 @@
     </head>
     <body>
         This website contains a map for <a href="https://workadventu.re">Workadventu.re</a>.
+        This website contains a map for <a href="https://play.world.fem-net.de/">https://play.world.fem-net.de/</a>.
         <br/>
         You can access this map at <a id="mapLink" href=""></a>
     </body>
 </html>
+
