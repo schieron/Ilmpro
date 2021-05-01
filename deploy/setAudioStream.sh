@@ -33,7 +33,9 @@ STREAM_MINP_URL=$(sed 's|/|\\/|g' <<< ${MENTI_URLS[0]})
 STREAM_MOUT_URL=$(sed 's|/|\\/|g' <<< ${MENTI_URLS[1]})
 STREAM_MINF_URL=$(sed 's|/|\\/|g' <<< ${MENTI_URLS[2]})
 
-sed -i  "s/$PLACEHOLDER/$STREAM_URL/g" ./*.json
-sed -i  "s/$PLACEHOLDER1/$STREAM_MINP_URL/g" ./*.json
-sed -i  "s/$PLACEHOLDER2/$STREAM_MOUT_URL/g" ./*.json
-sed -i  "s/$PLACEHOLDER3/$STREAM_MINF_URL/g" ./*.json
+for f in $(find . -name "*.json"); do
+sed -i  "s/$PLACEHOLDER/$STREAM_URL/g" "$f"
+sed -i  "s/$PLACEHOLDER1/$STREAM_MINP_URL/g" "$f"
+sed -i  "s/$PLACEHOLDER2/$STREAM_MOUT_URL/g" "$f"
+sed -i  "s/$PLACEHOLDER3/$STREAM_MINF_URL/g" "$f"
+done
