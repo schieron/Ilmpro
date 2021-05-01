@@ -388,7 +388,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"--mentiout--"
+                 "value":"--streamouturl--"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -406,7 +406,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"--mentinfo--"
+                 "value":"--streaminfurl--"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -572,7 +572,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"--mentiin--"
+                 "value":"--streaminpurl--"
                 }],
          "type":"tilelayer",
          "visible":true,
