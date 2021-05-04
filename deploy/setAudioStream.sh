@@ -12,7 +12,7 @@ export TZ
 
 
 STREAM_LIVE_URL="https://bit.ly/3vCuXxB"
-MENTI_URLS[0]="https://www.menti.com/ubrf586ufg/"
+MENTI_URLS[0]="https://www.menti.com/167ef399mv"
 MENTI_URLS[1]="https://bit.ly/3ualdKD"
 MENTI_URLS[2]="https://bit.ly/3fpaSpv"
 
