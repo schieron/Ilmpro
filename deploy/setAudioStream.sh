@@ -12,8 +12,8 @@ export TZ
 
 
 STREAM_LIVE_URL="https://bit.ly/3vCuXxB"
-MENTI_URLS[0]="https://www.menti.com/167ef399mv"
-MENTI_URLS[1]="https://www.mentimeter.com/s/dfffa38a6e20428d7b16755de35230b0/4b57bc10be01"
+MENTI_URLS[0]="https://www.menti.com/owsgv87ttx"
+MENTI_URLS[1]="https://www.mentimeter.com/s/01819a82428553c5802b34bcde96f0cf/b6d03333eec0"
 MENTI_URLS[2]="https://bit.ly/3fpaSpv"
 
 PLACEHOLDER="--streamurl--"
