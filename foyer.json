@@ -16,7 +16,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -34,7 +34,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -46,7 +46,7 @@
          "name":"Background",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -58,7 +58,7 @@
          "name":"Klo",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -76,7 +76,7 @@
                  "value":"https:\/\/www.facebook.com\/IlmproKombinat"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -268,7 +268,7 @@
          "name":"zuganbuhne",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -280,7 +280,7 @@
          "name":"zugangsdeko",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -292,7 +292,7 @@
          "name":"zugangsdekovorhang",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -304,7 +304,7 @@
          "name":"mauer",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -316,7 +316,7 @@
          "name":"fenster",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -328,7 +328,7 @@
          "name":"stuhl",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -346,7 +346,7 @@
                  "value":"--streamouturl--"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -364,7 +364,7 @@
                  "value":"--streaminpurl--"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -382,7 +382,7 @@
                  "value":"--streaminfurl--"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -394,7 +394,7 @@
          "name":"checkin1",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -406,7 +406,7 @@
          "name":"CheckIn",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -434,7 +434,7 @@
                  "value":"onaction"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -457,7 +457,7 @@
                  "value":"Improtischbarfor2"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -469,7 +469,7 @@
          "name":"Loungebereichboden",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -492,7 +492,7 @@
                  "value":"Improtbarsofaecke"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -504,7 +504,7 @@
          "name":"bargrundriss",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -516,7 +516,7 @@
          "name":"bar",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -534,7 +534,7 @@
                  "value":"\/misc\/audio\/You_can_make_my_heart_smile_original_Klavier.mp3"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -562,7 +562,7 @@
                  "value":"onaction"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -590,7 +590,7 @@
                  "value":"onaction"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -602,7 +602,7 @@
          "name":"loungebackground",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -614,7 +614,7 @@
          "name":"caffebestuhlung",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -626,7 +626,7 @@
          "name":"caffelounge",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -638,7 +638,7 @@
          "name":"getr\u00e4nkeandco",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -650,7 +650,7 @@
          "name":"empfangsdamen",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -662,7 +662,7 @@
          "name":"Signs",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -674,7 +674,7 @@
          "name":"Beleuchtung",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -686,7 +686,7 @@
          "name":"imptologo",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -704,7 +704,7 @@
                  "value":".\/misc\/audio\/willkommen2.mp3"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -722,7 +722,7 @@
                  "value":".\/misc\/audio\/willkommen.mp3"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -734,7 +734,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -745,7 +745,7 @@
          "name":"Eingangsbogen",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -757,7 +757,7 @@
          "name":"topdeko",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
