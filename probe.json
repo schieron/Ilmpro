@@ -103,7 +103,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/..\/..\/..\/global\/schieron.github.io\/Ilmpro\/backstage.json#eingangStage1"
+                 "value":"..\/..\/..\/global\/schieron.github.io\/Ilmpro\/backstage.json#eingangStage1"
                 }],
          "type":"tilelayer",
          "visible":true,
