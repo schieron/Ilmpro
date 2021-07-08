@@ -1,4 +1,11 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "target":"."
+        }
+    },
  "height":34,
  "infinite":false,
  "layers":[
@@ -54,7 +61,7 @@
                 {
                  "name":"exit",
                  "type":"string",
-                 "value":"..\/..\/..\/global\/schieron.github.io\/Ilmpro\/backstage.json#eingangStage2"
+                 "value":"..\/..\/..\/global\/schieron.github.io\/Ilmpro\/foyer.json#eingangStage4"
                 }],
          "type":"tilelayer",
          "visible":true,
