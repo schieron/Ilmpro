@@ -54,8 +54,14 @@
                  "id":51,
                  "name":"Protale",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"startLayer",
+                         "type":"bool",
+                         "value":true
+                        }],
                  "type":"tilelayer",
-                 "visible":true,
+                 "visible":false,
                  "width":50,
                  "x":0,
                  "y":0
@@ -277,7 +283,7 @@
          "name":"Step2",
          "opacity":1,
          "type":"group",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }, 
@@ -437,7 +443,7 @@
          "name":"Step1",
          "opacity":1,
          "type":"group",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }, 
@@ -497,7 +503,7 @@
          "name":"Theater",
          "opacity":1,
          "type":"group",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }, 
@@ -514,7 +520,7 @@
                  "value":"..\/..\/..\/..\/global\/schieron.github.io\/Ilmpro\/foyer.json"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":50,
          "x":0,
          "y":0
@@ -529,7 +535,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/..\/..\/probe\/schieron.github.io\/Ilmpro\/Sart.json#startlab"
+                 "value":"..\/..\/..\/probe\/schieron.github.io\/Ilmpro\/Start.json#startlab"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -547,7 +553,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/..\/..\/..\/global\/schieron.github.io\/Ilmpro\/foyer.json"
+                 "value":"..\/..\/..\/..\/event\/schieron.github.io\/Ilmpro\/foyer.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -574,7 +580,7 @@
          "name":"startlab",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":50,
          "x":0,
          "y":0
@@ -586,7 +592,7 @@
          "name":"startleiter",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":50,
          "x":0,
          "y":0
@@ -604,7 +610,7 @@
                  "value":"..\/..\/..\/..\/global\/schieron.github.io\/Ilmpro\/start.json#startkeller"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":50,
          "x":0,
          "y":0
@@ -622,7 +628,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":50,
          "x":0,
          "y":0
@@ -640,7 +646,7 @@
                  "value":"..\/..\/..\/..\/global\/schieron.github.io\/Ilmpro\/start.json#start4"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":50,
          "x":0,
          "y":0
@@ -651,8 +657,14 @@
          "id":65,
          "name":"startlochtheater",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":50,
          "x":0,
          "y":0
@@ -664,7 +676,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }],
