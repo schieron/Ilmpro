@@ -20,6 +20,12 @@
          "id":31,
          "name":"silencezoon",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"silent",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":34,
@@ -597,16 +603,6 @@
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
-         "tiles":[
-                {
-                 "id":4,
-                 "properties":[
-                        {
-                         "name":"silent",
-                         "type":"bool",
-                         "value":true
-                        }]
-                }],
          "tilewidth":32
         }, 
         {
