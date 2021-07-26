@@ -3,7 +3,7 @@
     {
      "export":
         {
-         "target":"."
+         "target":"..\/..\/Impro\/localWork\/localwork"
         }
     },
  "height":43,
@@ -151,7 +151,7 @@
                  "name":"h1",
                  "opacity":1,
                  "type":"tilelayer",
-                 "visible":false,
+                 "visible":true,
                  "width":50,
                  "x":0,
                  "y":0
@@ -163,7 +163,7 @@
                  "name":"h2",
                  "opacity":1,
                  "type":"tilelayer",
-                 "visible":false,
+                 "visible":true,
                  "width":50,
                  "x":0,
                  "y":0
@@ -175,7 +175,7 @@
                  "name":"h22",
                  "opacity":1,
                  "type":"tilelayer",
-                 "visible":false,
+                 "visible":true,
                  "width":50,
                  "x":0,
                  "y":0
@@ -187,7 +187,7 @@
                  "name":"h3",
                  "opacity":1,
                  "type":"tilelayer",
-                 "visible":false,
+                 "visible":true,
                  "width":50,
                  "x":0,
                  "y":0
@@ -199,7 +199,7 @@
                  "name":"provisorium",
                  "opacity":1,
                  "type":"tilelayer",
-                 "visible":false,
+                 "visible":true,
                  "width":50,
                  "x":0,
                  "y":0
@@ -714,7 +714,7 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"Assets\/BaseChip_pipo.png",
+         "image":"..\/..\/Impro\/localWork\/localwork\/Assets\/BaseChip_pipo.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
@@ -1158,7 +1158,7 @@
         {
          "columns":9,
          "firstgid":1065,
-         "image":"Assets\/mapUtilities.png",
+         "image":"..\/..\/Impro\/localWork\/localwork\/Assets\/mapUtilities.png",
          "imageheight":32,
          "imagewidth":288,
          "margin":0,
@@ -1171,7 +1171,7 @@
         {
          "columns":4,
          "firstgid":1074,
-         "image":"Assets\/logoimpr.png",
+         "image":"..\/..\/Impro\/localWork\/localwork\/Assets\/logoimpr.png",
          "imageheight":128,
          "imagewidth":128,
          "margin":0,
@@ -1194,7 +1194,7 @@
         {
          "columns":9,
          "firstgid":1090,
-         "image":"..\/..\/..\/GitHub\/Ilmpro\/Assets\/mapUtilities.png",
+         "image":"Assets\/mapUtilities.png",
          "imageheight":32,
          "imagewidth":288,
          "margin":0,
