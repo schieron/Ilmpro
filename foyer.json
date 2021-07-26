@@ -16,7 +16,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -34,7 +34,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -163,7 +163,7 @@
                          "value":"..\/..\/..\/..\/event\/schieron.github.io\/Ilmpro\/start.json"
                         }],
                  "type":"tilelayer",
-                 "visible":false,
+                 "visible":true,
                  "width":39,
                  "x":0,
                  "y":0
@@ -181,7 +181,7 @@
                          "value":"https:\/\/www.facebook.com\/IlmproKombinat"
                         }],
                  "type":"tilelayer",
-                 "visible":false,
+                 "visible":true,
                  "width":39,
                  "x":0,
                  "y":0
@@ -199,7 +199,7 @@
                          "value":"..\/..\/..\/event\/schieron.github.io\/Ilmpro\/start.json"
                         }],
                  "type":"tilelayer",
-                 "visible":false,
+                 "visible":true,
                  "width":39,
                  "x":0,
                  "y":0
@@ -425,7 +425,7 @@
          "name":"backGroundLobby",
          "opacity":1,
          "type":"group",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -563,7 +563,7 @@
          "name":"bar",
          "opacity":1,
          "type":"group",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -627,7 +627,7 @@
          "name":"menti",
          "opacity":1,
          "type":"group",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -685,7 +685,7 @@
          "name":"checkin",
          "opacity":1,
          "type":"group",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -787,7 +787,7 @@
          "name":"caffe",
          "opacity":1,
          "type":"group",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -798,7 +798,7 @@
          "name":"getr\u00e4nkeandco",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -810,7 +810,7 @@
          "name":"Signs",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -822,7 +822,7 @@
          "name":"Beleuchtung",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -834,7 +834,7 @@
          "name":"imptologo",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -881,7 +881,7 @@
          "name":"Eingang",
          "opacity":1,
          "type":"group",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -892,7 +892,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -903,7 +903,7 @@
          "name":"Eingangsbogen",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
@@ -915,7 +915,7 @@
          "name":"topdeko",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":39,
          "x":0,
          "y":0
