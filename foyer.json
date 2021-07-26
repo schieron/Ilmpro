@@ -455,7 +455,7 @@
                          "value":"onaction"
                         }],
                  "type":"tilelayer",
-                 "visible":false,
+                 "visible":true,
                  "width":39,
                  "x":0,
                  "y":0
@@ -478,7 +478,7 @@
                          "value":"Improtischbarfor2"
                         }],
                  "type":"tilelayer",
-                 "visible":false,
+                 "visible":true,
                  "width":39,
                  "x":0,
                  "y":0
@@ -490,7 +490,7 @@
                  "name":"Loungebereichboden",
                  "opacity":1,
                  "type":"tilelayer",
-                 "visible":false,
+                 "visible":true,
                  "width":39,
                  "x":0,
                  "y":0
@@ -513,7 +513,7 @@
                          "value":"Improtbarsofaecke"
                         }],
                  "type":"tilelayer",
-                 "visible":false,
+                 "visible":true,
                  "width":39,
                  "x":0,
                  "y":0
@@ -525,7 +525,7 @@
                  "name":"bargrundriss",
                  "opacity":1,
                  "type":"tilelayer",
-                 "visible":false,
+                 "visible":true,
                  "width":39,
                  "x":0,
                  "y":0
@@ -537,7 +537,7 @@
                  "name":"bar",
                  "opacity":1,
                  "type":"tilelayer",
-                 "visible":false,
+                 "visible":true,
                  "width":39,
                  "x":0,
                  "y":0
@@ -555,7 +555,7 @@
                          "value":"\/misc\/audio\/You_can_make_my_heart_smile_original_Klavier.mp3"
                         }],
                  "type":"tilelayer",
-                 "visible":false,
+                 "visible":true,
                  "width":39,
                  "x":0,
                  "y":0
