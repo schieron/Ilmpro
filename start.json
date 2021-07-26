@@ -1116,7 +1116,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"..\/..\/..\/event\/schieron.github.io\/Ilmpro\/foyer.json"
+                         "value":"..\/..\/..\/event\/schieron.github.io\/Ilmpro\/foyer.json#start_from_the_start"
                         }],
                  "type":"tilelayer",
                  "visible":true,
