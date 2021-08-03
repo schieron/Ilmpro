@@ -11,7 +11,8 @@ TZ=Europe/Berlin
 export TZ
 
 
-STREAM_LIVE_URL="https://bit.ly/3vCuXxB"
+STREAM_LIVE_URL_im="https://bit.ly/3vCuXxB"
+STREAM_LIVE_URL="https://delivery-cdn-cf.adswizz.com/cpd/7078_-_SSL_-_Liquid_Elements_-_30_ad_54000d65-2c8b-4e6e-b4b7-1a29c15ac0fa.mp3"
 MENTI_URLS[0]="https://www.menti.com/owsgv87ttx"
 MENTI_URLS[1]="https://www.mentimeter.com/s/01819a82428553c5802b34bcde96f0cf/b6d03333eec0"
 MENTI_URLS[2]="https://bit.ly/3fpaSpv"
