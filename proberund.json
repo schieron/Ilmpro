@@ -280,7 +280,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"https:\/\/antenne-th.divicon-stream.net\/antth_atdeutsch_cbRE-mp3-192?sABC=61090qon%230%238o657435897s1p25rop9s5r6643np8s4%23jro&=&amsparams=playerid:web;skey:1627983290"
+                         "value":"https:\/\/stream.antennethueringen.de\/deutsch-pop\/mp3-192\/web\/"
                         }],
                  "type":"tilelayer",
                  "visible":true,
