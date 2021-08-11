@@ -44,6 +44,12 @@
                 }],
          "name":"silentzone",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"silent",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"group",
          "visible":true,
          "x":0,
