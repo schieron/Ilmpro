@@ -280,7 +280,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"--https:\/\/stream.antennethueringen.de\/deutsch-pop\/mp3-192\/web\/"
+                         "value":"--streamurl--"
                         }],
                  "type":"tilelayer",
                  "visible":true,
