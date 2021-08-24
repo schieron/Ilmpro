@@ -118,7 +118,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"..\/..\/..\/global\/schieron.github.io\/Ilmpro\/foyer.json#eingangStage4"
+                         "value":"..\/..\/..\/event\/schieron.github.io\/Ilmpro\/foyer.json#eingangStage4"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -136,7 +136,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"..\/..\/..\/global\/schieron.github.io\/Ilmpro\/backstage.json#eingangStage1"
+                         "value":"..\/..\/..\/event\/schieron.github.io\/Ilmpro\/backstage.json#eingangStage1"
                         }],
                  "type":"tilelayer",
                  "visible":true,
