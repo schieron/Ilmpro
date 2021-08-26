@@ -280,7 +280,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"--streamurl--"
+                         "value":"https:\/\/morty.fem.tu-ilmenau.de\/icecast\/impro.opus"
                         }],
                  "type":"tilelayer",
                  "visible":true,
