@@ -90,7 +90,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"--streamurl--"
+                         "value":"ilmprokombinat.ddns.net:8000\/ilmpro--"
                         }],
                  "type":"tilelayer",
                  "visible":true,
