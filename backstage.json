@@ -134,7 +134,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"..\/..\/..\/event\/schieron.github.io\/Ilmpro\/proberund.json"
+                         "value":"..\/..\/..\/probe\/schieron.github.io\/Ilmpro\/proberund.json"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -188,7 +188,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"..\/..\/..\/event\/schieron.github.io\/Ilmpro\/STAGE\/Stage2.json#stage2buehne"
+                         "value":"..\/..\/..\/probe\/schieron.github.io\/Ilmpro\/probe.json#bstart"
                         }],
                  "type":"tilelayer",
                  "visible":true,
