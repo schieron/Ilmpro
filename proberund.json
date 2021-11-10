@@ -280,7 +280,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"ilmprokombinat.ddns.net:8000\/ilmpro"
+                         "value":"--streamurl--"
                         }],
                  "type":"tilelayer",
                  "visible":true,
