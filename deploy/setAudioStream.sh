@@ -12,7 +12,7 @@ export TZ
 
 
 #STREAM_LIVE_URL_im="https://bit.ly/3vCuXxB"
-STREAM_LIVE_URL="https://bit.ly/3wyjhNN"
+STREAM_LIVE_URL="https://stream.radioparadise.com/mp3-128"
 
 PLACEHOLDER="--streamurl--"
 
