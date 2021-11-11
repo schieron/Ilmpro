@@ -923,6 +923,11 @@
  "orientation":"orthogonal",
  "properties":[
         {
+         "name":"mapName",
+         "type":"string",
+         "value":"Hauptbuehne"
+        }, 
+        {
          "name":"script",
          "type":"string",
          "value":"script.js"

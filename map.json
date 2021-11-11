@@ -1,4 +1,11 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "target":"."
+        }
+    },
  "height":17,
  "infinite":false,
  "layers":[
@@ -8,6 +15,24 @@
          "id":6,
          "name":"start",
          "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":31,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 449, 449, 449, 449, 449, 449, 449, 449, 449, 449, 449, 449, 449, 449, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 449, 449, 449, 0, 0, 449, 449, 449, 449, 449, 449, 449, 449, 449, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 449, 449, 449, 449, 0, 449, 449, 449, 449, 449, 449, 449, 449, 449, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 449, 449, 449, 449, 449, 449, 449, 449, 449, 449, 449, 449, 449, 449, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 449, 449, 449, 449, 449, 449, 449, 449, 449, 449, 449, 449, 449, 449, 449, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 449, 449, 449, 449, 449, 449, 449, 449, 449, 449, 449, 449, 449, 449, 449, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 449, 449, 449, 449, 449, 449, 449, 449, 449, 449, 449, 449, 449, 449, 449, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 449, 449, 449, 449, 449, 449, 449, 449, 449, 449, 449, 449, 449, 449, 449, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 449, 449, 449, 449, 449, 449, 449, 449, 449, 449, 449, 449, 449, 449, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 449, 449, 449, 449, 449, 449, 449, 449, 449, 449, 449, 449, 449, 449, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 449, 449, 449, 449, 449, 449, 449, 449, 449, 449, 449, 449, 449, 449, 449, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "height":17,
+         "id":39,
+         "name":"icecast",
+         "opacity":1,
+         "properties":[
+                {
+                 "name":"zone",
+                 "type":"string",
+                 "value":"life"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":31,
@@ -191,7 +216,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":39,
+ "nextlayerid":40,
  "nextobjectid":9,
  "orientation":"orthogonal",
  "properties":[
@@ -199,34 +224,34 @@
          "name":"mapCopyright",
          "type":"string",
          "value":"Credits: Valdo Romao https:\/\/www.linkedin.com\/in\/valdo-romao\/ \nLicense: CC-BY-SA 3.0 (http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/)"
-        },
-   {
-     "name":"mapDescription",
-     "type":"string",
-     "value":"A perfect virtual office to get started with WorkAdventure!"
-   },
-   {
-     "name":"mapImage",
-     "type":"string",
-     "value":"map.png"
-   },
-   {
-     "name":"mapLink",
-     "type":"string",
-     "value":"https:\/\/thecodingmachine.github.io\/workadventure-map-starter-kit\/map.json"
-   },
-   {
-     "name":"mapName",
-     "type":"string",
-     "value":"Starter kit"
-   },
+        }, 
+        {
+         "name":"mapDescription",
+         "type":"string",
+         "value":"A perfect virtual office to get started with WorkAdventure!"
+        }, 
+        {
+         "name":"mapImage",
+         "type":"string",
+         "value":"map.png"
+        }, 
+        {
+         "name":"mapLink",
+         "type":"string",
+         "value":"https:\/\/thecodingmachine.github.io\/workadventure-map-starter-kit\/map.json"
+        }, 
+        {
+         "name":"mapName",
+         "type":"string",
+         "value":"Starter kit"
+        }, 
         {
          "name":"script",
          "type":"string",
          "value":"script.js"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.7.0",
+ "tiledversion":"1.4.3",
  "tileheight":32,
  "tilesets":[
         {
@@ -336,6 +361,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":"1.6",
+ "version":1.4,
  "width":31
 }
