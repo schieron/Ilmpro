@@ -29,6 +29,7 @@ function closePopUp(){
 let stream = "http://ilmprokombinat.ddns.net:8000/ilmpro"
 
 WA.room.onEnterZone('life', () => {
+    console.log("Enter Zone")
     playAuftritt =  WA.sound.loadSound(stream);
     var config = {
         volume : 0.5,
@@ -41,5 +42,7 @@ WA.room.onEnterZone('life', () => {
     }
     playAuftritt.play(config);
 });
+
+
 
 //mySound.stop();
