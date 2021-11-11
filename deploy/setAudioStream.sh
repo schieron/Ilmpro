@@ -11,7 +11,8 @@ TZ=Europe/Berlin
 export TZ
 
 
-STREAM_LIVE_URL_im="https://bit.ly/3D1Pik0"
+#STREAM_LIVE_URL="https://bit.ly/3D1Pik0"
+STREAM_LIVE_URL="http://ilmprokombinat.ddns.net:8000/ilmpro"
 #STREAM_LIVE_URL="https://stream.radioparadise.com/mp3-128"
 
 PLACEHOLDER="--streamurl--"
