@@ -26,7 +26,8 @@ function closePopUp(){
     }
 }
 
-let stream = "http://ilmprokombinat.ddns.net:8000/ilmpro"
+let stream = "ilmpro.m3u"
+
 
 WA.room.onEnterZone('life', () => {
     console.log("Enter Zone")
