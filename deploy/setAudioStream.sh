@@ -11,8 +11,8 @@ TZ=Europe/Berlin
 export TZ
 
 
-#STREAM_LIVE_URL_im="https://bit.ly/3vCuXxB"
-STREAM_LIVE_URL="https://stream.radioparadise.com/mp3-128"
+STREAM_LIVE_URL_im="https://bit.ly/3D1Pik0"
+#STREAM_LIVE_URL="https://stream.radioparadise.com/mp3-128"
 
 PLACEHOLDER="--streamurl--"
 
