@@ -26,11 +26,10 @@ function closePopUp(){
     }
 }
 
-//let stream = "http://ilmprokombinat.ddns.net:8000/ilmpro"
-let localstream = "http://192.168.178.40:8000/ilmpro"
+let stream = "http://ilmprokombinat.ddns.net:8000/ilmpro"
 
 WA.room.onEnterZone('life', () => {
-    playAuftritt =  WA.sound.loadSound(localstream);
+    playAuftritt =  WA.sound.loadSound(stream);
     var config = {
         volume : 0.5,
         loop : false,
