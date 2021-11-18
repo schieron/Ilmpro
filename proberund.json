@@ -280,7 +280,7 @@
                         {
                          "name":"zone",
                          "type":"string",
-                         "value":"https:\/\/ilmprokombinat.ddns.net:8443\/ilmpro"
+                         "value":"life"
                         }],
                  "type":"tilelayer",
                  "visible":true,
