@@ -278,7 +278,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"zone",
+                         "name":"playAudio",
                          "type":"string",
                          "value":"https:\/\/ilmprokombinat.ddns.net:8443\/ilmpro.opus"
                         }],
