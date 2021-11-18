@@ -27,7 +27,7 @@ function closePopUp(){
 }
 
 // let stream = "ilmpro.m3u"
-let stream ="https://ilmprokombinat.ddns.net/ilmpro.opus"
+let stream ="https://ilmprokombinat.ddns.net:8443/ilmpro.opus"
 
 WA.room.onEnterZone('life', () => {
     console.log("Enter Zone")
