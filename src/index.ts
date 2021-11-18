@@ -26,14 +26,14 @@ function closePopUp(){
     }
 }
 
-let stream = "ilmpro.m3u"
-
+// let stream = "ilmpro.m3u"
+let stream ="https://ilmprokombinat.ddns.net/ilmpro"
 
 WA.room.onEnterZone('life', () => {
     console.log("Enter Zone")
     playAuftritt =  WA.sound.loadSound(stream);
     var config = {
-        volume : 0.5,
+        volume : 1.5,
         loop : false,
         rate : 1,
         detune : 1,
