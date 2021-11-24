@@ -70,7 +70,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"..\/..\/..\/event\/schieron.github.io\/Ilmpro\/foyer.json#eingangStage1"
+                         "value":"..\/..\/..\/ik\/schieron.github.io\/Ilmpro\/Stage\/foyer.json#eingangStage1"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -106,7 +106,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"..\/..\/..\/event\/schieron.github.io\/Ilmpro\/backstage.json#eingangStage1"
+                         "value":"..\/..\/..\/ik\/schieron.github.io\/Ilmpro\/Stage\/backstage.json#eingangStage1"
                         }],
                  "type":"tilelayer",
                  "visible":true,
