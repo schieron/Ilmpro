@@ -160,7 +160,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"..\/..\/..\/ik\/schieron.github.io\/Ilmpro\/Stage\/proberund.json"
+                         "value":"..\/..\/..\/schieron.github.io\/Ilmpro\/Stage\/proberund.json"
                         }],
                  "type":"tilelayer",
                  "visible":true,
