@@ -1,4 +1,0 @@
-#EXTM3U
-#EXTINF:0,ilmpro
-#EXTVLCOPT:network-caching=1000
-http://ilmprokombinat.ddns.net:8000/ilmpro
