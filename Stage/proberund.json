@@ -99,7 +99,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"..\/..\/..\/ik\/schieron.github.io\/Ilmpro\/Stage\/backstage.json#eingangStage1"
+                         "value":"..\/..\/..\/schieron.github.io\/Ilmpro\/Stage\/backstage.json1"
                         }],
                  "type":"tilelayer",
                  "visible":true,
