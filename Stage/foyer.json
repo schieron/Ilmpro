@@ -318,7 +318,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"\/misc\/audio\/Klospulung.mp3"
+                         "value":"..\/misc\/audio\/Klospulung.mp3"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -336,7 +336,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"\/misc\/audio\/Hande_waschen.mp3"
+                         "value":"..\/misc\/audio\/Hande_waschen.mp3"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -614,7 +614,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"\/misc\/audio\/You_can_make_my_heart_smile_original_Klavier.mp3"
+                         "value":"..\/misc\/audio\/You_can_make_my_heart_smile_original_Klavier.mp3"
                         }],
                  "type":"tilelayer",
                  "visible":true,
