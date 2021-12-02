@@ -672,7 +672,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":""
+                         "value":"..\/misc\/ws.html"
                         }],
                  "type":"tilelayer",
                  "visible":true,
