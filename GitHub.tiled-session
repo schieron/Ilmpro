@@ -966,8 +966,8 @@
             "scale": 1,
             "selectedLayer": 17,
             "viewCenter": {
-                "x": 746,
-                "y": 278.5
+                "x": 609.5,
+                "y": 393
             }
         },
         "Stage/foyer.json#BaseChip_pipo": {
@@ -1214,8 +1214,8 @@
     "project": "GitHub.tiled-project",
     "property.type": "string",
     "recentFiles": [
-        "Stage/foyer.json",
         "start.json",
+        "Stage/foyer.json",
         "Stage/proberund.json",
         "Stage/StageFestival.json",
         "Stage/Stage_FInale.tmx",
