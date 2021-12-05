@@ -327,7 +327,7 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"Background\/STAGE2.png",
+         "image":"..\/Assets\/STAGE2.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,

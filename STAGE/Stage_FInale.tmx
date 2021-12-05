@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.4" tiledversion="1.4.3" orientation="orthogonal" renderorder="right-down" width="15" height="16" tilewidth="32" tileheight="32" infinite="0" nextlayerid="11" nextobjectid="1">
+<map version="1.5" tiledversion="1.7.2" orientation="orthogonal" renderorder="right-down" width="15" height="16" tilewidth="32" tileheight="32" infinite="0" nextlayerid="11" nextobjectid="1">
  <editorsettings>
   <export target="Stage1..json" format="json"/>
  </editorsettings>
  <tileset firstgid="1" name="STAGE2" tilewidth="32" tileheight="32" tilecount="64" columns="8">
-  <image source="Background/STAGE2.png" width="256" height="256"/>
+  <image source="../Assets/STAGE2.png" width="256" height="256"/>
  </tileset>
  <tileset firstgid="65" name="mapUtilities" tilewidth="32" tileheight="32" tilecount="9" columns="9">
   <image source="../Assets/mapUtilities.png" width="288" height="32"/>
