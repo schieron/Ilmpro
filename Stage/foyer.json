@@ -144,7 +144,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"..\/..\/..\/ik\/schieron.github.io\/Ilmpro\/start.json"
+                         "value":"..\/..\/..\/schieron.github.io\/Ilmpro\/start.json"
                         }],
                  "type":"tilelayer",
                  "visible":true,
