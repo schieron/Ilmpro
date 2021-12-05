@@ -1,0 +1,1237 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "Alle Dateien (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Ron/AppData/Local/Temp/Temp1_Tiled Sample.zip/Sample.tmx": {
+            "scale": 0.09567764945652174,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 5894.793645158426,
+                "y": 2952.622703470311
+            }
+        },
+        "C:/Users/Ron/AppData/Local/Temp/Temp1_Tiled Sample.zip/Sample.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/Assets/Stage_FInale.tmx": {
+            "scale": 0.8201171875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 677.9518933079305,
+                "y": 388.359133126935
+            }
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/Assets/Stage_FInale.tmx#STAGE2": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/Ilmpromap.json": {
+            "scale": 0.33,
+            "selectedLayer": 16,
+            "viewCenter": {
+                "x": 1600,
+                "y": 1598.4848484848485
+            }
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/Ilmpromap.json#01_mate": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/Ilmpromap.json#380-3801198_click-for-full-sized-image-inside-rpg-maker": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/Ilmpromap.json#Logo": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/Ilmpromap.json#Muppets_World_Tour_Stage": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/Ilmpromap.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/Ilmpromap.json#mapUtilities": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/Ilmpromap.json#piano": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/Ilmpromap.json#spot3": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/STAGE/STAGE2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/STAGE/Stage1..json": {
+            "scale": 1.4212890624999999,
+            "selectedLayer": 8,
+            "viewCenter": {
+                "x": 240.6266318537859,
+                "y": 189.26480692593105
+            }
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/STAGE/Stage1..json#STAGE2": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/STAGE/Stage1..json#floortileset": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/STAGE/Stage1..json#mapUtilities": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/STAGE/Stage1..json#spot3": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/STAGE/Stage1.json": {
+            "scale": 1,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 400.5,
+                "y": 400
+            }
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/STAGE/Stage1.json#BaseChip_pipo": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/STAGE/Stage1.json#Logo": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/STAGE/Stage1.json#STAGE2": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/STAGE/Stage1.json#floortileset": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/STAGE/Stage1.json#logoimpr": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/STAGE/Stage1.json#mapUtilities": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/STAGE/Stage1.json#spot3": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/STAGE/Stage2.json": {
+            "scale": 0.75,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 288,
+                "y": 287.3333333333333
+            }
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/STAGE/Stage2.json#BaseChip_pipo": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/STAGE/Stage2.json#STAGE2": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/STAGE/Stage2.json#floortileset": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/STAGE/Stage2.json#logoimpr": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/STAGE/Stage2.json#mapUtilities": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/STAGE/Stage2.json#spot3": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/STAGE/Stage3.json": {
+            "scale": 0.75,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 288,
+                "y": 287.3333333333333
+            }
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/STAGE/Stage3.json#BaseChip_pipo": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/STAGE/Stage3.json#STAGE2": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/STAGE/Stage3.json#floortileset": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/STAGE/Stage3.json#logoimpr": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/STAGE/Stage3.json#mapUtilities": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/STAGE/Stage3.json#spot3": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/STAGE/Stage_FInale.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 40,
+                "y": 494
+            }
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/STAGE/Stage_FInale.tmx#STAGE2": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/STAGE/Stage_FInale.tmx#floortileset": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/STAGE/Stage_FInale.tmx#mapUtilities": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/STAGE/Stage_FInale.tmx#spot3": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/Stage_FInale.tmx": {
+            "scale": 0.8201171875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 401.162181471779,
+                "y": 535.8990235770422
+            }
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/Stage_FInale.tmx#STAGE2": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/backstage.json": {
+            "scale": 1.5,
+            "selectedLayer": 11,
+            "viewCenter": {
+                "x": 336,
+                "y": 319.66666666666663
+            }
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/backstage.json#BaseChip_pipo": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/backstage.json#Interior": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/backstage.json#STAGE2": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/backstage.json#einrichtung": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/backstage.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/backstage.json#food_and_drinks": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/backstage.json#foyer": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/backstage.json#mapUtilities": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/backstage.json#tilesets_deviant_milkian_1": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/backstage.json#upholstery-recolors": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/docs/TEST.json": {
+            "scale": 0.2846127717391304,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 774.7368421052631,
+                "y": 732.5742928750448
+            }
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/docs/TEST.json#02_mate_crates_1": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/docs/TEST.json#Dancefloor": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/docs/TEST.json#Interior": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/docs/TEST.json#Turntables": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/docs/TEST.json#boxen_96": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/docs/TEST.json#cija_32x32_expansion for Pipoya_CC0": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/docs/TEST.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/docs/TEST.json#food_and_drinks": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/docs/TEST.json#house_inside": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/docs/TEST.json#mapUtilities": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/docs/TEST.json#misc": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/docs/TEST.json#pipo_base_1": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/docs/TEST.json#rc3-mullana-functionary": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/docs/TEST.json#rc3-tileset": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/docs/TEST.json#spot3": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/docs/TEST.json#throw_pillows": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/docs/TEST.json#tileset_manual": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/docs/TEST.json#tilesets_deviant_milkian_1": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/docs/TEST.json#upholstery-recolors": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/foyer.json": {
+            "scale": 0.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 608,
+                "y": 399
+            }
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/foyer.json#BaseChip_pipo": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/foyer.json#Interior": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/foyer.json#STAGE2": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/foyer.json#einrichtung": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/foyer.json#floortileset": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/foyer.json#food_and_drinks": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/foyer.json#foyer": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/foyer.json#logoimpr": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/foyer.json#mapUtilities": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/foyer.json#tilesets_deviant_milkian_1": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/foyer.json#upholstery-recolors": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/grundgriss.json": {
+            "scale": 0.25,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 464,
+                "y": 2326
+            }
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/grundgriss.json#BaseChip_pipo": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/grundgriss.json#STAGE2": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/grundgriss.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/grundgriss.json#foyer": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/grundgriss.json#logoimpr": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/grundgriss.json#mapUtilities": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/grundgriss.json#spot3": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/probe.json": {
+            "scale": 5.5,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 634.4545454545455,
+                "y": 205.8181818181818
+            }
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/probe.json#BaseChip_pipo": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/probe.json#Interior": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/probe.json#STAGE2": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/probe.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/probe.json#logoimpr": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/probe.json#mapUtilities": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/probe.json#spot3": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/probe.json#tilesets_deviant_milkian_1": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/proberund.json": {
+            "scale": 0.75,
+            "selectedLayer": 16,
+            "viewCenter": {
+                "x": 528,
+                "y": 543.3333333333333
+            }
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/proberund.json#BaseChip_pipo": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/proberund.json#STAGE2": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/proberund.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/proberund.json#house_inside": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/proberund.json#logoimpr": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/proberund.json#mapUtilities": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/proberund.json#spot3": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/start.json": {
+            "scale": 1,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 583.5,
+                "y": 383
+            }
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/start.json#BaseChip_pipo": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/start.json#Interior": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/start.json#Logos_black": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/start.json#STAGE2": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/start.json#Schieronlogo_invert": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/start.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/start.json#foyer": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/start.json#logoimpr": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/start.json#mapUtilities": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/start.json#spot3": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/start1.json": {
+            "scale": 1.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 303.99999999999994,
+                "y": -79
+            }
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/start1.json#BaseChip_pipo": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/start1.json#Worte": {
+            "scaleInEditor": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/start1.json#floortileset": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/start1.json#logoimpr": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/start_.json": {
+            "scale": 0.5253997093023256,
+            "selectedLayer": 10,
+            "viewCenter": {
+                "x": 784.1648800055328,
+                "y": 688.9992392281624
+            }
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/start_.json#BaseChip_pipo": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/start_.json#logoimpr": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/start_.json#mapUtilities": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/start_org.json": {
+            "scale": 1,
+            "selectedLayer": 84,
+            "viewCenter": {
+                "x": 691,
+                "y": 723
+            }
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/start_org.json#BaseChip_pipo": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/start_org.json#Interior": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/start_org.json#Logos_black": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/start_org.json#Schieronlogo_invert": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/start_org.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/start_org.json#foyer": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/start_org.json#logoimpr": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/Ilmpro/start_org.json#mapUtilities": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/workadventure-map-starter-kit/map.json": {
+            "scale": 1.2037802419354837,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 461.46296528911785,
+                "y": 271.64426579575434
+            }
+        },
+        "C:/Users/Ron/Documents/GitHub/workadventure-map-starter-kit/map.json#Special_Zones": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/workadventure-map-starter-kit/map.json#tileset1": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/workadventure-map-starter-kit/map.json#tileset1-repositioning": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/workadventure-map-starter-kit/map.json#tileset5_export": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/workadventure-map-starter-kit/map.json#tileset6_export": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/workadventure-map-starter-kit/proberund.json": {
+            "scale": 0.44618566176470587,
+            "selectedLayer": 16,
+            "viewCenter": {
+                "x": 3185.893500875476,
+                "y": 1038.8052322587291
+            }
+        },
+        "C:/Users/Ron/Documents/GitHub/workadventure-map-starter-kit/proberund.json#BaseChip_pipo": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/workadventure-map-starter-kit/proberund.json#STAGE2": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/workadventure-map-starter-kit/proberund.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/workadventure-map-starter-kit/proberund.json#house_inside": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/workadventure-map-starter-kit/proberund.json#logoimpr": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/workadventure-map-starter-kit/proberund.json#mapUtilities": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/GitHub/workadventure-map-starter-kit/proberund.json#spot3": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/Godot/Godot_Ilmpro/Ilmpromap.json": {
+            "scale": 0.25,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1228,
+                "y": 778
+            }
+        },
+        "C:/Users/Ron/Documents/Godot/Godot_Ilmpro/Ilmpromap.json#Muppets_World_Tour_Stage": {
+            "scaleInDock": 0.33
+        },
+        "C:/Users/Ron/Documents/Impro/IlmproK.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Ron/Documents/Impro/IlmproKo.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Ron/Documents/Impro/Muppets_World_Tour_Stage.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 0.33
+        },
+        "C:/Users/Ron/Documents/Impro/Theater.json": {
+            "scale": 0.125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 600,
+                "y": 1988
+            }
+        },
+        "C:/Users/Ron/Documents/Impro/WorkAdvenbturerTheater/STAGE/Foyer.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 208.33333333333337,
+                "y": 209.33333333333334
+            }
+        },
+        "C:/Users/Ron/Documents/Impro/WorkAdvenbturerTheater/STAGE/Foyer.tmx#STAGE2": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/Impro/WorkAdvenbturerTheater/STAGE/Stage_FInale.tmx": {
+            "scale": 0.8201171875,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 240.20957370802572,
+                "y": 257.2803048344844
+            }
+        },
+        "C:/Users/Ron/Documents/Impro/WorkAdvenbturerTheater/STAGE/Stage_FInale.tmx#STAGE2": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/Impro/WorkAdvenbturerTheater/STAGE/bc.json": {
+            "scale": 0.33,
+            "selectedLayer": 24,
+            "viewCenter": {
+                "x": -4486.363636363636,
+                "y": 877.2727272727273
+            }
+        },
+        "C:/Users/Ron/Documents/Impro/WorkAdvenbturerTheater/STAGE/bc.json#02_mate_crates_1": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/Impro/WorkAdvenbturerTheater/STAGE/bc.json#Dancefloor": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/Impro/WorkAdvenbturerTheater/STAGE/bc.json#Interior": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/Impro/WorkAdvenbturerTheater/STAGE/bc.json#Turntables": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/Impro/WorkAdvenbturerTheater/STAGE/bc.json#boxen_96": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/Impro/WorkAdvenbturerTheater/STAGE/bc.json#cija_32x32_expansion for Pipoya_CC0": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/Impro/WorkAdvenbturerTheater/STAGE/bc.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/Impro/WorkAdvenbturerTheater/STAGE/bc.json#food_and_drinks": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/Impro/WorkAdvenbturerTheater/STAGE/bc.json#house_inside": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/Impro/WorkAdvenbturerTheater/STAGE/bc.json#mapUtilities": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/Impro/WorkAdvenbturerTheater/STAGE/bc.json#misc": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/Impro/WorkAdvenbturerTheater/STAGE/bc.json#pipo_base_1": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/Impro/WorkAdvenbturerTheater/STAGE/bc.json#rc3-mullana-functionary": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/Impro/WorkAdvenbturerTheater/STAGE/bc.json#rc3-tileset": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/Impro/WorkAdvenbturerTheater/STAGE/bc.json#spot3": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/Impro/WorkAdvenbturerTheater/STAGE/bc.json#throw_pillows": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/Impro/WorkAdvenbturerTheater/STAGE/bc.json#tileset_manual": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/Impro/WorkAdvenbturerTheater/STAGE/bc.json#tilesets_deviant_milkian_1": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/Impro/WorkAdvenbturerTheater/STAGE/bc.json#upholstery-recolors": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/Impro/WorkAdvenbturerTheater/STAGE/foyertest.json": {
+            "scale": 0.6234375,
+            "selectedLayer": 4,
+            "viewCenter": {
+                "x": 624.7619047619048,
+                "y": 320.00000000000006
+            }
+        },
+        "C:/Users/Ron/Documents/Impro/WorkAdvenbturerTheater/STAGE/foyertest.json#Interior": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/Impro/WorkAdvenbturerTheater/STAGE/foyertest.json#STAGE2": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/Impro/WorkAdvenbturerTheater/STAGE/foyertest.json#einrichtung": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/Impro/WorkAdvenbturerTheater/STAGE/foyertest.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/Impro/WorkAdvenbturerTheater/STAGE/foyertest.json#food_and_drinks": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/Impro/WorkAdvenbturerTheater/STAGE/foyertest.json#foyer": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/Impro/WorkAdvenbturerTheater/STAGE/foyertest.json#mapUtilities": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/Impro/WorkAdvenbturerTheater/STAGE/foyertest.json#tilesets_deviant_milkian_1": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/Impro/WorkAdvenbturerTheater/STAGE/foyertest.json#upholstery-recolors": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/Impro/WorkAdvenbturerTheater/floortileset.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Ron/Documents/Impro/WorkAdvenbturerTheater/tilesets_deviant_milkian_1.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Ron/Documents/Impro/architect-object-tileset.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Ron/Documents/Impro/localWork/localwork/map.json": {
+            "scale": 0.5479279891304347,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 735.4981092306739,
+                "y": -1074.9587750294465
+            }
+        },
+        "C:/Users/Ron/Documents/Impro/localWork/localwork/map.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/Impro/localWork/localwork/map.json#office_1": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/Impro/localWork/localwork/start.json": {
+            "scale": 0.5,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": -2,
+                "y": 870
+            }
+        },
+        "C:/Users/Ron/Documents/Impro/localWork/localwork/start.json#BaseChip_pipo": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Ron/Documents/Impro/localWork/localwork/start.json#logoimpr": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/Impro/localWork/localwork/start.json#mapUtilities": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Ron/Documents/Impro/tileset-theater-lab.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Ron/Documents/Impro/wood1.tsx": {
+            "scaleInDock": 1
+        },
+        "Stage/StageFestival.json": {
+            "scale": 0.8427951388888889,
+            "selectedLayer": 17,
+            "viewCenter": {
+                "x": 287.13976722628485,
+                "y": 452.06715418683694
+            }
+        },
+        "Stage/StageFestival.json#BaseChip_pipo": {
+            "scaleInDock": 1
+        },
+        "Stage/StageFestival.json#STAGE2": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Stage/StageFestival.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "Stage/StageFestival.json#logoimpr": {
+            "scaleInDock": 1
+        },
+        "Stage/StageFestival.json#mapUtilities": {
+            "scaleInDock": 1
+        },
+        "Stage/StageFestival.json#spot3": {
+            "scaleInDock": 1
+        },
+        "Stage/Stage_FInale.tmx": {
+            "scale": 0.94814453125,
+            "selectedLayer": 8,
+            "viewCenter": {
+                "x": 229.39540632402924,
+                "y": 396.56401277165514
+            }
+        },
+        "Stage/Stage_FInale.tmx#STAGE2": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Stage/Stage_FInale.tmx#floortileset": {
+            "scaleInDock": 1
+        },
+        "Stage/Stage_FInale.tmx#mapUtilities": {
+            "scaleInDock": 1
+        },
+        "Stage/Stage_FInale.tmx#spot3": {
+            "scaleInDock": 1
+        },
+        "Stage/Winterbuehne.json": {
+            "scale": 0.583544921875,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 513.2424064931806,
+                "y": 514.0992385574428
+            }
+        },
+        "Stage/Winterbuehne.json#BaseChip_pipo": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Stage/Winterbuehne.json#Outside Objects": {
+            "scaleInDock": 1
+        },
+        "Stage/Winterbuehne.json#STAGEmSchnee": {
+            "scaleInDock": 1
+        },
+        "Stage/Winterbuehne.json#Terrain_and_Outside": {
+            "scaleInDock": 1
+        },
+        "Stage/Winterbuehne.json#Winterdeko": {
+            "scaleInDock": 1
+        },
+        "Stage/Winterbuehne.json#WinterdekoPart2": {
+            "scaleInDock": 1
+        },
+        "Stage/Winterbuehne.json#house_inside": {
+            "scaleInDock": 1
+        },
+        "Stage/Winterbuehne.json#mapUtilities": {
+            "scaleInDock": 1
+        },
+        "Stage/Winterbuehne.json#tilesets_deviant_milkian_1": {
+            "scaleInDock": 1
+        },
+        "Stage/Winterbuehne.json#upholstery-recolors": {
+            "scaleInDock": 1
+        },
+        "Stage/backstage.json": {
+            "scale": 0.9336718749999999,
+            "selectedLayer": 21,
+            "viewCenter": {
+                "x": 204.5686553426492,
+                "y": 340.59074554430595
+            }
+        },
+        "Stage/backstage.json#Adventskranz": {
+            "scaleInDock": 1
+        },
+        "Stage/backstage.json#BaseChip_pipo": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Stage/backstage.json#Interior": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Stage/backstage.json#STAGE2": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Stage/backstage.json#einrichtung": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Stage/backstage.json#floortileset": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Stage/backstage.json#food_and_drinks": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Stage/backstage.json#foyer": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Stage/backstage.json#mapUtilities": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Stage/backstage.json#tilesets_deviant_milkian_1": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Stage/backstage.json#upholstery-recolors": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Stage/foyer.json": {
+            "scale": 1,
+            "selectedLayer": 17,
+            "viewCenter": {
+                "x": 594.5,
+                "y": 342
+            }
+        },
+        "Stage/foyer.json#BaseChip_pipo": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Stage/foyer.json#Interior": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Stage/foyer.json#Outside Objects": {
+            "scaleInDock": 1
+        },
+        "Stage/foyer.json#STAGE2": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Stage/foyer.json#Terrain_and_Outside": {
+            "scaleInDock": 1
+        },
+        "Stage/foyer.json#Winterdeko": {
+            "scaleInDock": 1
+        },
+        "Stage/foyer.json#einrichtung": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Stage/foyer.json#floortileset": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Stage/foyer.json#food_and_drinks": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Stage/foyer.json#foyer": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Stage/foyer.json#logoimpr": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Stage/foyer.json#mapUtilities": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Stage/foyer.json#tilesets_deviant_milkian_1": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Stage/foyer.json#upholstery-recolors": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Stage/proberund.json": {
+            "scale": 0.7303125,
+            "selectedLayer": 8,
+            "viewCenter": {
+                "x": 374.4972186563971,
+                "y": 529.9101412066752
+            }
+        },
+        "Stage/proberund.json#BaseChip_pipo": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Stage/proberund.json#Interior": {
+            "scaleInDock": 1
+        },
+        "Stage/proberund.json#Outside Objects": {
+            "scaleInDock": 1
+        },
+        "Stage/proberund.json#STAGE2": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Stage/proberund.json#Terrain_and_Outside": {
+            "scaleInDock": 1
+        },
+        "Stage/proberund.json#floortileset": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Stage/proberund.json#house_inside": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Stage/proberund.json#logoimpr": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Stage/proberund.json#mapUtilities": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Stage/proberund.json#spot3": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "foyer.json": {
+            "scale": 0.7852343749999999,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 608.7354492090341,
+                "y": 401.1541140185057
+            }
+        },
+        "foyer.json#BaseChip_pipo": {
+            "scaleInDock": 1
+        },
+        "foyer.json#Interior": {
+            "scaleInDock": 1
+        },
+        "foyer.json#STAGE2": {
+            "scaleInDock": 1
+        },
+        "foyer.json#einrichtung": {
+            "scaleInDock": 1
+        },
+        "foyer.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "foyer.json#food_and_drinks": {
+            "scaleInDock": 1
+        },
+        "foyer.json#foyer": {
+            "scaleInDock": 1
+        },
+        "foyer.json#logoimpr": {
+            "scaleInDock": 1
+        },
+        "foyer.json#mapUtilities": {
+            "scaleInDock": 1
+        },
+        "foyer.json#tilesets_deviant_milkian_1": {
+            "scaleInDock": 1
+        },
+        "foyer.json#upholstery-recolors": {
+            "scaleInDock": 1
+        },
+        "map.json": {
+            "scale": 1.123336693548387,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 495.8442141158523,
+                "y": 272.40274599542334
+            }
+        },
+        "map.json#Special_Zones": {
+            "scaleInDock": 1
+        },
+        "map.json#tileset1": {
+            "scaleInDock": 1
+        },
+        "map.json#tileset1-repositioning": {
+            "scaleInDock": 1
+        },
+        "map.json#tileset5_export": {
+            "scaleInDock": 1
+        },
+        "map.json#tileset6_export": {
+            "scaleInDock": 1
+        },
+        "proberund.json": {
+            "scale": 0.6863051470588235,
+            "selectedLayer": 16,
+            "viewCenter": {
+                "x": 464.8078210794161,
+                "y": 370.0977634927012
+            }
+        },
+        "proberund.json#BaseChip_pipo": {
+            "scaleInDock": 1
+        },
+        "proberund.json#STAGE2": {
+            "scaleInDock": 1
+        },
+        "proberund.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "proberund.json#house_inside": {
+            "scaleInDock": 1
+        },
+        "proberund.json#logoimpr": {
+            "scaleInDock": 1
+        },
+        "proberund.json#mapUtilities": {
+            "scaleInDock": 1
+        },
+        "proberund.json#spot3": {
+            "scaleInDock": 1
+        },
+        "start.json": {
+            "scale": 0.75,
+            "selectedLayer": 82,
+            "viewCenter": {
+                "x": 181.33333333333337,
+                "y": 831.9999999999999
+            }
+        },
+        "start.json#BaseChip_pipo": {
+            "scaleInDock": 1
+        },
+        "start.json#Interior": {
+            "scaleInDock": 1
+        },
+        "start.json#Logos_black": {
+            "scaleInDock": 1
+        },
+        "start.json#Outside Objects": {
+            "scaleInDock": 1
+        },
+        "start.json#Schieronlogo_invert": {
+            "scaleInDock": 1
+        },
+        "start.json#Terrain_and_Outside": {
+            "scaleInDock": 1
+        },
+        "start.json#Winterdeko": {
+            "scaleInDock": 1
+        },
+        "start.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "start.json#foyer": {
+            "scaleInDock": 1
+        },
+        "start.json#logoimpr": {
+            "scaleInDock": 1
+        },
+        "start.json#mapUtilities": {
+            "scaleInDock": 1
+        }
+    },
+    "frame.defaultDuration": 900,
+    "last.imagePath": "C:/Users/Ron/Documents/GitHub/Impro/Assets",
+    "map.height": 20,
+    "map.lastUsedExportFilter": "JSON-Kartendateien (*.json)",
+    "map.lastUsedFormat": "json",
+    "map.width": 20,
+    "openFiles": [
+    ],
+    "project": "GitHub.tiled-project",
+    "property.type": "string",
+    "recentFiles": [
+        "Stage/StageFestival.json",
+        "Stage/Stage_FInale.tmx",
+        "Stage/Winterbuehne.json",
+        "Stage/foyer.json",
+        "Stage/proberund.json",
+        "start.json",
+        "Stage/backstage.json",
+        "foyer.json",
+        "map.json",
+        "proberund.json",
+        "C:/Users/Ron/Documents/GitHub/workadventure-map-starter-kit/proberund.json",
+        "C:/Users/Ron/Documents/GitHub/workadventure-map-starter-kit/map.json"
+    ],
+    "resizeMap.removeObjects": true,
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFilter": "Alle Dateien (*)",
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 32,
+        "width": 32
+    },
+    "tileset.useTransparentColor": false
+}
