@@ -1023,7 +1023,7 @@
         },
         "Stage/proberund.json": {
             "scale": 0.7303125,
-            "selectedLayer": 8,
+            "selectedLayer": 92,
             "viewCenter": {
                 "x": 374.4972186563971,
                 "y": 529.9101412066752
@@ -1212,11 +1212,11 @@
     "project": "GitHub.tiled-project",
     "property.type": "string",
     "recentFiles": [
+        "Stage/proberund.json",
         "Stage/StageFestival.json",
         "Stage/Stage_FInale.tmx",
         "Stage/Winterbuehne.json",
         "Stage/foyer.json",
-        "Stage/proberund.json",
         "start.json",
         "Stage/backstage.json",
         "foyer.json",
