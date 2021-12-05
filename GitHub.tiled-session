@@ -1024,11 +1024,11 @@
             "scaleInEditor": 1
         },
         "Stage/proberund.json": {
-            "scale": 0.7303125,
-            "selectedLayer": 92,
+            "scale": 0.75,
+            "selectedLayer": 31,
             "viewCenter": {
-                "x": 374.4972186563971,
-                "y": 529.9101412066752
+                "x": 708.6666666666665,
+                "y": 586
             }
         },
         "Stage/proberund.json#BaseChip_pipo": {
@@ -1163,10 +1163,10 @@
         },
         "start.json": {
             "scale": 0.75,
-            "selectedLayer": 94,
+            "selectedLayer": 98,
             "viewCenter": {
-                "x": 456.6666666666666,
-                "y": 628.6666666666666
+                "x": 622,
+                "y": 928.6666666666665
             }
         },
         "start.json#BaseChip_pipo": {
