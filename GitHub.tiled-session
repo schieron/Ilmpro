@@ -5,6 +5,8 @@
     },
     "activeFile": "",
     "expandedProjectPaths": [
+        ".",
+        "Stage"
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
@@ -964,8 +966,8 @@
             "scale": 1,
             "selectedLayer": 17,
             "viewCenter": {
-                "x": 594.5,
-                "y": 342
+                "x": 609.5,
+                "y": 393
             }
         },
         "Stage/foyer.json#BaseChip_pipo": {
@@ -1161,10 +1163,10 @@
         },
         "start.json": {
             "scale": 0.75,
-            "selectedLayer": 82,
+            "selectedLayer": 94,
             "viewCenter": {
-                "x": 181.33333333333337,
-                "y": 831.9999999999999
+                "x": 456.6666666666666,
+                "y": 628.6666666666666
             }
         },
         "start.json#BaseChip_pipo": {
@@ -1212,12 +1214,12 @@
     "project": "GitHub.tiled-project",
     "property.type": "string",
     "recentFiles": [
+        "start.json",
+        "Stage/foyer.json",
         "Stage/proberund.json",
         "Stage/StageFestival.json",
         "Stage/Stage_FInale.tmx",
         "Stage/Winterbuehne.json",
-        "Stage/foyer.json",
-        "start.json",
         "Stage/backstage.json",
         "foyer.json",
         "map.json",
