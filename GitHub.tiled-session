@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "Stage/foyer.json",
     "expandedProjectPaths": [
         "Stage",
         "."
@@ -824,20 +824,45 @@
         "C:/Users/Ron/Documents/Impro/wood1.tsx": {
             "scaleInDock": 1
         },
-        "Stage/Stage1.json": {
-            "scale": 0.6068125,
-            "selectedLayer": 0,
+        "Stage/Galarie.json": {
+            "scale": 0.75,
+            "selectedLayer": 8,
             "viewCenter": {
-                "x": 398.805232258729,
-                "y": 627.871047481718
+                "x": 90,
+                "y": 263.3333333333333
+            }
+        },
+        "Stage/Galarie.json#BaseChip_pipo": {
+            "scaleInDock": 1
+        },
+        "Stage/Galarie.json#STAGE2": {
+            "scaleInDock": 1
+        },
+        "Stage/Galarie.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "Stage/Galarie.json#logoimpr": {
+            "scaleInDock": 1
+        },
+        "Stage/Galarie.json#mapUtilities": {
+            "scaleInDock": 1
+        },
+        "Stage/Galarie.json#spot3": {
+            "scaleInDock": 1
+        },
+        "Stage/Stage1.json": {
+            "scale": 0.9036875,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 400.0276644304585,
+                "y": 400.0276644304586
             }
         },
         "Stage/Stage1.json#BaseChip_pipo": {
             "scaleInDock": 1
         },
         "Stage/Stage1.json#STAGE2": {
-            "scaleInDock": 1,
-            "scaleInEditor": 1
+            "scaleInDock": 1
         },
         "Stage/Stage1.json#floortileset": {
             "scaleInDock": 1
@@ -852,19 +877,18 @@
             "scaleInDock": 1
         },
         "Stage/Stage2.json": {
-            "scale": 0.8427951388888889,
-            "selectedLayer": 0,
+            "scale": 1.2542968749999999,
+            "selectedLayer": 6,
             "viewCenter": {
-                "x": 285.95323926253985,
-                "y": 450.8806262230919
+                "x": 288.20928059794454,
+                "y": 199.71348489567114
             }
         },
         "Stage/Stage2.json#BaseChip_pipo": {
             "scaleInDock": 1
         },
         "Stage/Stage2.json#STAGE2": {
-            "scaleInDock": 1,
-            "scaleInEditor": 1
+            "scaleInDock": 1
         },
         "Stage/Stage2.json#floortileset": {
             "scaleInDock": 1
@@ -879,19 +903,18 @@
             "scaleInDock": 1
         },
         "Stage/Stage3.json": {
-            "scale": 0.8427951388888889,
-            "selectedLayer": 0,
+            "scale": 1.2542968749999999,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 285.95323926253985,
-                "y": 450.8806262230919
+                "x": 288.20928059794454,
+                "y": 199.71348489567114
             }
         },
         "Stage/Stage3.json#BaseChip_pipo": {
             "scaleInDock": 1
         },
         "Stage/Stage3.json#STAGE2": {
-            "scaleInDock": 1,
-            "scaleInEditor": 1
+            "scaleInDock": 1
         },
         "Stage/Stage3.json#floortileset": {
             "scaleInDock": 1
@@ -910,7 +933,7 @@
             "selectedLayer": 17,
             "viewCenter": {
                 "x": 287.13976722628485,
-                "y": 181.53877845298177
+                "y": 452.06715418683694
             }
         },
         "Stage/StageFestival.json#BaseChip_pipo": {
@@ -957,16 +980,13 @@
             "scale": 0.583544921875,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 744.5870638440299,
-                "y": 517.5265668144925
+                "x": 513.2424064931806,
+                "y": 514.0992385574428
             }
         },
         "Stage/Winterbuehne.json#BaseChip_pipo": {
             "scaleInDock": 1,
             "scaleInEditor": 1
-        },
-        "Stage/Winterbuehne.json#Interior": {
-            "scaleInDock": 1
         },
         "Stage/Winterbuehne.json#Outside Objects": {
             "scaleInDock": 1
@@ -1048,10 +1068,10 @@
         },
         "Stage/foyer.json": {
             "scale": 1,
-            "selectedLayer": 8,
+            "selectedLayer": 24,
             "viewCenter": {
-                "x": 664,
-                "y": 189
+                "x": 866.5,
+                "y": 209.5
             }
         },
         "Stage/foyer.json#BaseChip_pipo": {
@@ -1107,12 +1127,52 @@
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
+        "Stage/probe.json": {
+            "scale": 0.4552083333333333,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 466.81922196796336,
+                "y": 629.3821510297482
+            }
+        },
+        "Stage/probe.json#BaseChip_pipo": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Stage/probe.json#Interior": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Stage/probe.json#STAGE2": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Stage/probe.json#floortileset": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Stage/probe.json#logoimpr": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Stage/probe.json#mapUtilities": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Stage/probe.json#spot3": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Stage/probe.json#tilesets_deviant_milkian_1": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
         "Stage/proberund.json": {
             "scale": 0.75,
             "selectedLayer": 31,
             "viewCenter": {
-                "x": 640.6666666666665,
-                "y": -410.66666666666663
+                "x": 708.6666666666667,
+                "y": 584.6666666666666
             }
         },
         "Stage/proberund.json#BaseChip_pipo": {
@@ -1247,10 +1307,10 @@
         },
         "start.json": {
             "scale": 0.75,
-            "selectedLayer": 75,
+            "selectedLayer": 98,
             "viewCenter": {
-                "x": 1032.6666666666665,
-                "y": 306.66666666666674
+                "x": 796.6666666666667,
+                "y": 684.6666666666666
             }
         },
         "start.json#BaseChip_pipo": {
@@ -1294,22 +1354,27 @@
     "map.lastUsedFormat": "json",
     "map.width": 20,
     "openFiles": [
+        "Stage/Galarie.json",
+        "Stage/foyer.json",
+        "Stage/Stage1.json",
+        "Stage/Stage2.json",
+        "Stage/Stage3.json"
     ],
     "project": "GitHub.tiled-project",
     "property.type": "string",
     "recentFiles": [
-        "Stage/foyer.json",
+        "Stage/Galarie.json",
+        "Stage/Stage3.json",
         "Stage/Stage2.json",
         "Stage/Stage1.json",
-        "Stage/Stage3.json",
-        "Stage/StageFestival.json",
-        "start.json",
-        "Stage/Winterbuehne.json",
+        "Stage/foyer.json",
+        "Stage/probe.json",
         "Stage/proberund.json",
+        "start.json",
+        "Stage/StageFestival.json",
         "Stage/Stage_FInale.tmx",
-        "Stage/backstage.json",
-        "foyer.json",
-        "map.json"
+        "Stage/Winterbuehne.json",
+        "Stage/backstage.json"
     ],
     "resizeMap.removeObjects": true,
     "tileset.embedInMap": true,
