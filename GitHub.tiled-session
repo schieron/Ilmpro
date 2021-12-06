@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Stage/foyer.json",
+    "activeFile": "start.json",
     "expandedProjectPaths": [
         ".",
         "Stage"
@@ -906,8 +906,8 @@
             "scale": 1.2542968749999999,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 287.81065088757396,
-                "y": 287.81065088757396
+                "x": 288.6079103083151,
+                "y": 200.11211460604176
             }
         },
         "Stage/Stage3.json#BaseChip_pipo": {
@@ -1070,8 +1070,8 @@
             "scale": 1,
             "selectedLayer": 14,
             "viewCenter": {
-                "x": 779.5,
-                "y": 210
+                "x": 698,
+                "y": 209
             }
         },
         "Stage/foyer.json#BaseChip_pipo": {
@@ -1306,11 +1306,11 @@
             "scaleInDock": 1
         },
         "start.json": {
-            "scale": 0.75,
-            "selectedLayer": 21,
+            "scale": 1.5,
+            "selectedLayer": 99,
             "viewCenter": {
-                "x": 30.66666666666663,
-                "y": 1017.3333333333333
+                "x": 681.3333333333333,
+                "y": 744.6666666666666
             }
         },
         "start.json#BaseChip_pipo": {
@@ -1354,23 +1354,19 @@
     "map.lastUsedFormat": "json",
     "map.width": 20,
     "openFiles": [
-        "Stage/Galarie.json",
-        "Stage/foyer.json",
-        "Stage/Stage1.json",
-        "Stage/Stage2.json",
-        "Stage/Stage3.json"
+        "start.json"
     ],
     "project": "GitHub.tiled-project",
     "property.type": "string",
     "recentFiles": [
+        "start.json",
         "Stage/Galarie.json",
-        "Stage/Stage3.json",
-        "Stage/Stage2.json",
-        "Stage/Stage1.json",
         "Stage/foyer.json",
+        "Stage/Stage1.json",
+        "Stage/Stage2.json",
+        "Stage/Stage3.json",
         "Stage/probe.json",
         "Stage/proberund.json",
-        "start.json",
         "Stage/StageFestival.json",
         "Stage/Stage_FInale.tmx",
         "Stage/Winterbuehne.json",
