@@ -5,8 +5,8 @@
     },
     "activeFile": "Stage/foyer.json",
     "expandedProjectPaths": [
-        "Stage",
-        "."
+        ".",
+        "Stage"
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
@@ -829,7 +829,7 @@
             "selectedLayer": 8,
             "viewCenter": {
                 "x": 90,
-                "y": 263.3333333333333
+                "y": 263.99999999999994
             }
         },
         "Stage/Galarie.json#BaseChip_pipo": {
@@ -854,8 +854,8 @@
             "scale": 0.9036875,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 400.0276644304585,
-                "y": 400.0276644304586
+                "x": 399.4743758212878,
+                "y": 399.4743758212878
             }
         },
         "Stage/Stage1.json#BaseChip_pipo": {
@@ -880,8 +880,8 @@
             "scale": 1.2542968749999999,
             "selectedLayer": 6,
             "viewCenter": {
-                "x": 288.20928059794454,
-                "y": 199.71348489567114
+                "x": 287.81065088757396,
+                "y": 287.81065088757396
             }
         },
         "Stage/Stage2.json#BaseChip_pipo": {
@@ -906,8 +906,8 @@
             "scale": 1.2542968749999999,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 288.20928059794454,
-                "y": 199.71348489567114
+                "x": 287.81065088757396,
+                "y": 287.81065088757396
             }
         },
         "Stage/Stage3.json#BaseChip_pipo": {
@@ -1068,10 +1068,10 @@
         },
         "Stage/foyer.json": {
             "scale": 1,
-            "selectedLayer": 24,
+            "selectedLayer": 14,
             "viewCenter": {
-                "x": 866.5,
-                "y": 209.5
+                "x": 779.5,
+                "y": 210
             }
         },
         "Stage/foyer.json#BaseChip_pipo": {
@@ -1307,10 +1307,10 @@
         },
         "start.json": {
             "scale": 0.75,
-            "selectedLayer": 98,
+            "selectedLayer": 21,
             "viewCenter": {
-                "x": 796.6666666666667,
-                "y": 684.6666666666666
+                "x": 30.66666666666663,
+                "y": 1017.3333333333333
             }
         },
         "start.json#BaseChip_pipo": {
