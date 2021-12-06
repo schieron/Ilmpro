@@ -826,10 +826,10 @@
         },
         "Stage/Galarie.json": {
             "scale": 0.75,
-            "selectedLayer": 8,
+            "selectedLayer": 9,
             "viewCenter": {
-                "x": 90,
-                "y": 263.99999999999994
+                "x": -134.66666666666663,
+                "y": 262.66666666666674
             }
         },
         "Stage/Galarie.json#BaseChip_pipo": {
@@ -854,8 +854,8 @@
             "scale": 0.9036875,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 399.4743758212878,
-                "y": 399.4743758212878
+                "x": 400.5809530396293,
+                "y": 400.5809530396294
             }
         },
         "Stage/Stage1.json#BaseChip_pipo": {
@@ -880,8 +880,8 @@
             "scale": 1.2542968749999999,
             "selectedLayer": 6,
             "viewCenter": {
-                "x": 287.81065088757396,
-                "y": 287.81065088757396
+                "x": 288.6079103083151,
+                "y": 200.11211460604176
             }
         },
         "Stage/Stage2.json#BaseChip_pipo": {
@@ -1131,8 +1131,8 @@
             "scale": 0.4552083333333333,
             "selectedLayer": 7,
             "viewCenter": {
-                "x": 466.81922196796336,
-                "y": 629.3821510297482
+                "x": 467.91762013729965,
+                "y": 630.4805491990847
             }
         },
         "Stage/probe.json#BaseChip_pipo": {
