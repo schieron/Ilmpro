@@ -111,7 +111,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/..\/..\/..\/global\/schieron.github.io\/Ilmpro\/foyer.json#eingangStage3"
+                 "value":"..\/..\/..\/schieron.github.io\/Ilmpro\/Stage\/Galerie.json#2"
                 }],
          "type":"tilelayer",
          "visible":true,
