@@ -3,10 +3,10 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "start.json",
+    "activeFile": "Stage/proberund.json",
     "expandedProjectPaths": [
-        ".",
-        "Stage"
+        "Stage",
+        "."
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
@@ -1070,8 +1070,8 @@
             "scale": 1,
             "selectedLayer": 14,
             "viewCenter": {
-                "x": 698,
-                "y": 209
+                "x": 608,
+                "y": 400
             }
         },
         "Stage/foyer.json#BaseChip_pipo": {
@@ -1169,10 +1169,10 @@
         },
         "Stage/proberund.json": {
             "scale": 0.75,
-            "selectedLayer": 31,
+            "selectedLayer": 13,
             "viewCenter": {
-                "x": 708.6666666666667,
-                "y": 584.6666666666666
+                "x": 400.6666666666666,
+                "y": 518.6666666666667
             }
         },
         "Stage/proberund.json#BaseChip_pipo": {
@@ -1306,11 +1306,11 @@
             "scaleInDock": 1
         },
         "start.json": {
-            "scale": 1.5,
-            "selectedLayer": 99,
+            "scale": 1,
+            "selectedLayer": 86,
             "viewCenter": {
-                "x": 681.3333333333333,
-                "y": 744.6666666666666
+                "x": 423,
+                "y": 479
             }
         },
         "start.json#BaseChip_pipo": {
@@ -1345,6 +1345,79 @@
         },
         "start.json#mapUtilities": {
             "scaleInDock": 1
+        },
+        "startJS.json": {
+            "scale": 0.542134559535334,
+            "selectedLayer": 84,
+            "viewCenter": {
+                "x": 704.6221150841479,
+                "y": 453.7618856301058
+            }
+        },
+        "startJS.json#BaseChip_pipo": {
+            "scaleInDock": 1
+        },
+        "startJS.json#Interior": {
+            "scaleInDock": 1
+        },
+        "startJS.json#Outside Objects": {
+            "scaleInDock": 1
+        },
+        "startJS.json#Terrain_and_Outside": {
+            "scaleInDock": 1
+        },
+        "startJS.json#Winterdeko": {
+            "scaleInDock": 1
+        },
+        "startJS.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "startJS.json#foyer": {
+            "scaleInDock": 1
+        },
+        "startJS.json#logoimpr": {
+            "scaleInDock": 1
+        },
+        "startJS.json#mapUtilities": {
+            "scaleInDock": 1
+        },
+        "startJS.json#rc3-mullana-objects": {
+            "scaleInDock": 1
+        },
+        "startw.json": {
+            "scale": 1,
+            "selectedLayer": 103,
+            "viewCenter": {
+                "x": 518.5,
+                "y": 411
+            }
+        },
+        "startw.json#BaseChip_pipo": {
+            "scaleInDock": 1
+        },
+        "startw.json#Interior": {
+            "scaleInDock": 1
+        },
+        "startw.json#Outside Objects": {
+            "scaleInDock": 1
+        },
+        "startw.json#Terrain_and_Outside": {
+            "scaleInDock": 1
+        },
+        "startw.json#Winterdeko": {
+            "scaleInDock": 1
+        },
+        "startw.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "startw.json#foyer": {
+            "scaleInDock": 1
+        },
+        "startw.json#logoimpr": {
+            "scaleInDock": 1
+        },
+        "startw.json#mapUtilities": {
+            "scaleInDock": 1
         }
     },
     "frame.defaultDuration": 900,
@@ -1354,19 +1427,21 @@
     "map.lastUsedFormat": "json",
     "map.width": 20,
     "openFiles": [
-        "start.json"
+        "start.json",
+        "Stage/foyer.json",
+        "Stage/proberund.json"
     ],
     "project": "GitHub.tiled-project",
     "property.type": "string",
     "recentFiles": [
         "start.json",
-        "Stage/Galarie.json",
         "Stage/foyer.json",
+        "Stage/proberund.json",
+        "Stage/Galarie.json",
         "Stage/Stage1.json",
         "Stage/Stage2.json",
         "Stage/Stage3.json",
         "Stage/probe.json",
-        "Stage/proberund.json",
         "Stage/StageFestival.json",
         "Stage/Stage_FInale.tmx",
         "Stage/Winterbuehne.json",
