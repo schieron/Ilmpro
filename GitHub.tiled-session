@@ -5,7 +5,6 @@
     },
     "activeFile": "",
     "expandedProjectPaths": [
-        "Stage",
         "."
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
@@ -1068,10 +1067,10 @@
         },
         "Stage/foyer.json": {
             "scale": 1,
-            "selectedLayer": 5,
+            "selectedLayer": 70,
             "viewCenter": {
-                "x": 556.5,
-                "y": 399
+                "x": 531.5,
+                "y": 511.5
             }
         },
         "Stage/foyer.json#BaseChip_pipo": {
@@ -1169,10 +1168,10 @@
         },
         "Stage/proberund.json": {
             "scale": 0.75,
-            "selectedLayer": 20,
+            "selectedLayer": 95,
             "viewCenter": {
-                "x": 196.66666666666669,
-                "y": 514.6666666666667
+                "x": 343.33333333333326,
+                "y": 514
             }
         },
         "Stage/proberund.json#BaseChip_pipo": {
@@ -1307,10 +1306,10 @@
         },
         "start.json": {
             "scale": 0.75,
-            "selectedLayer": 91,
+            "selectedLayer": 109,
             "viewCenter": {
-                "x": 1056.6666666666665,
-                "y": 1036
+                "x": -710,
+                "y": 1034
             }
         },
         "start.json#BaseChip_pipo": {
@@ -1431,10 +1430,10 @@
     "project": "GitHub.tiled-project",
     "property.type": "string",
     "recentFiles": [
-        "startw.json",
         "Stage/foyer.json",
-        "Stage/proberund.json",
         "start.json",
+        "Stage/proberund.json",
+        "startw.json",
         "Stage/probe.json",
         "Stage/Stage1.json",
         "Stage/Stage2.json",
