@@ -5,7 +5,8 @@
     },
     "activeFile": "",
     "expandedProjectPaths": [
-        "."
+        ".",
+        "Stage"
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
@@ -851,10 +852,10 @@
         },
         "Stage/Stage1.json": {
             "scale": 0.9036875,
-            "selectedLayer": 16,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 400.02766443045863,
-                "y": 402.7941074763123
+                "x": 609.1707586970055,
+                "y": 406.1138391313369
             }
         },
         "Stage/Stage1.json#BaseChip_pipo": {
@@ -877,10 +878,10 @@
         },
         "Stage/Stage2.json": {
             "scale": 1.2542968749999999,
-            "selectedLayer": 16,
+            "selectedLayer": 7,
             "viewCenter": {
                 "x": 288.20928059794454,
-                "y": 290.9996885705388
+                "y": 291.3983182809094
             }
         },
         "Stage/Stage2.json#BaseChip_pipo": {
@@ -976,16 +977,19 @@
             "scaleInDock": 1
         },
         "Stage/Winterbuehne.json": {
-            "scale": 0.583544921875,
-            "selectedLayer": 5,
+            "scale": 2,
+            "selectedLayer": 6,
             "viewCenter": {
-                "x": 513.2424064931806,
-                "y": 514.0992385574428
+                "x": 473.25,
+                "y": 532.25
             }
         },
         "Stage/Winterbuehne.json#BaseChip_pipo": {
             "scaleInDock": 1,
             "scaleInEditor": 1
+        },
+        "Stage/Winterbuehne.json#Interior": {
+            "scaleInDock": 1
         },
         "Stage/Winterbuehne.json#Outside Objects": {
             "scaleInDock": 1
@@ -1018,8 +1022,8 @@
             "scale": 0.9336718749999999,
             "selectedLayer": 21,
             "viewCenter": {
-                "x": 204.5686553426492,
-                "y": 340.59074554430595
+                "x": 217.9566563467492,
+                "y": 341.12626558446993
             }
         },
         "Stage/backstage.json#Adventskranz": {
@@ -1170,8 +1174,8 @@
             "scale": 0.75,
             "selectedLayer": 95,
             "viewCenter": {
-                "x": 343.33333333333326,
-                "y": 514
+                "x": 786,
+                "y": 543.9999999999999
             }
         },
         "Stage/proberund.json#BaseChip_pipo": {
@@ -1306,16 +1310,19 @@
         },
         "start.json": {
             "scale": 0.75,
-            "selectedLayer": 109,
+            "selectedLayer": 99,
             "viewCenter": {
-                "x": -710,
-                "y": 1034
+                "x": 798.6666666666666,
+                "y": 686.6666666666667
             }
         },
         "start.json#BaseChip_pipo": {
             "scaleInDock": 1
         },
         "start.json#Interior": {
+            "scaleInDock": 1
+        },
+        "start.json#Kukolog32": {
             "scaleInDock": 1
         },
         "start.json#Logos_black": {
@@ -1328,6 +1335,9 @@
             "scaleInDock": 1
         },
         "start.json#Terrain_and_Outside": {
+            "scaleInDock": 1
+        },
+        "start.json#Theaska32_trsp": {
             "scaleInDock": 1
         },
         "start.json#Winterdeko": {
@@ -1430,18 +1440,18 @@
     "project": "GitHub.tiled-project",
     "property.type": "string",
     "recentFiles": [
-        "Stage/foyer.json",
+        "Stage/Stage1.json",
+        "Stage/backstage.json",
+        "Stage/Winterbuehne.json",
         "start.json",
         "Stage/proberund.json",
+        "Stage/foyer.json",
         "startw.json",
         "Stage/probe.json",
-        "Stage/Stage1.json",
         "Stage/Stage2.json",
         "Stage/Stage3.json",
         "startJS.json",
-        "Stage/Galarie.json",
-        "Stage/StageFestival.json",
-        "Stage/Stage_FInale.tmx"
+        "Stage/Galarie.json"
     ],
     "resizeMap.removeObjects": true,
     "tileset.embedInMap": true,
