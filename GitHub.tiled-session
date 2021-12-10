@@ -3,10 +3,10 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "Stage/backstage.json",
     "expandedProjectPaths": [
-        "Stage",
-        "."
+        ".",
+        "Stage"
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
@@ -1023,10 +1023,10 @@
         },
         "Stage/backstage.json": {
             "scale": 0.9336718749999999,
-            "selectedLayer": 21,
+            "selectedLayer": 26,
             "viewCenter": {
-                "x": 217.9566563467492,
-                "y": 341.12626558446993
+                "x": 101.21328759099657,
+                "y": 341.6617856246339
             }
         },
         "Stage/backstage.json#Adventskranz": {
@@ -1043,6 +1043,9 @@
         "Stage/backstage.json#STAGE2": {
             "scaleInDock": 1,
             "scaleInEditor": 1
+        },
+        "Stage/backstage.json#Stage_schilder": {
+            "scaleInDock": 1
         },
         "Stage/backstage.json#einrichtung": {
             "scaleInDock": 1,
@@ -1451,14 +1454,15 @@
     "map.lastUsedFormat": "json",
     "map.width": 20,
     "openFiles": [
+        "Stage/backstage.json"
     ],
     "project": "GitHub.tiled-project",
     "property.type": "string",
     "recentFiles": [
+        "Stage/backstage.json",
         "Stage/Stage1.json",
         "Stage/proberund.json",
         "Stage/Stage2.json",
-        "Stage/backstage.json",
         "Stage/Winterbuehne.json",
         "start.json",
         "Stage/foyer.json",
