@@ -5,8 +5,8 @@
     },
     "activeFile": "",
     "expandedProjectPaths": [
-        ".",
-        "Stage"
+        "Stage",
+        "."
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
@@ -826,16 +826,19 @@
         },
         "Stage/Galarie.json": {
             "scale": 0.75,
-            "selectedLayer": 9,
+            "selectedLayer": 23,
             "viewCenter": {
-                "x": -134.66666666666663,
-                "y": 262.66666666666674
+                "x": -134,
+                "y": 263.99999999999994
             }
         },
         "Stage/Galarie.json#BaseChip_pipo": {
             "scaleInDock": 1
         },
         "Stage/Galarie.json#STAGE2": {
+            "scaleInDock": 1
+        },
+        "Stage/Galarie.json#Stage_schilder": {
             "scaleInDock": 1
         },
         "Stage/Galarie.json#floortileset": {
@@ -852,10 +855,10 @@
         },
         "Stage/Stage1.json": {
             "scale": 0.9036875,
-            "selectedLayer": 3,
+            "selectedLayer": 6,
             "viewCenter": {
-                "x": 609.1707586970055,
-                "y": 406.1138391313369
+                "x": 310.9481983539664,
+                "y": 405.0072619129954
             }
         },
         "Stage/Stage1.json#BaseChip_pipo": {
@@ -880,8 +883,8 @@
             "scale": 1.2542968749999999,
             "selectedLayer": 7,
             "viewCenter": {
-                "x": 288.20928059794454,
-                "y": 291.3983182809094
+                "x": 188.95048271566492,
+                "y": 291.7969479912799
             }
         },
         "Stage/Stage2.json#BaseChip_pipo": {
@@ -1071,19 +1074,25 @@
         },
         "Stage/foyer.json": {
             "scale": 1,
-            "selectedLayer": 70,
+            "selectedLayer": 80,
             "viewCenter": {
-                "x": 531.5,
-                "y": 511.5
+                "x": 335.5,
+                "y": 277
             }
         },
         "Stage/foyer.json#BaseChip_pipo": {
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
+        "Stage/foyer.json#IlmproKombinat": {
+            "scaleInDock": 1
+        },
         "Stage/foyer.json#Interior": {
             "scaleInDock": 1,
             "scaleInEditor": 1
+        },
+        "Stage/foyer.json#Kukolog32": {
+            "scaleInDock": 1
         },
         "Stage/foyer.json#Outside Objects": {
             "scaleInDock": 1
@@ -1092,7 +1101,13 @@
             "scaleInDock": 1,
             "scaleInEditor": 1
         },
+        "Stage/foyer.json#Stage_schilder": {
+            "scaleInDock": 1
+        },
         "Stage/foyer.json#Terrain_and_Outside": {
+            "scaleInDock": 1
+        },
+        "Stage/foyer.json#Theaska32_trsp": {
             "scaleInDock": 1
         },
         "Stage/foyer.json#Winterdeko": {
@@ -1172,10 +1187,10 @@
         },
         "Stage/proberund.json": {
             "scale": 0.75,
-            "selectedLayer": 95,
+            "selectedLayer": 31,
             "viewCenter": {
-                "x": 786,
-                "y": 543.9999999999999
+                "x": 358.66666666666663,
+                "y": 538.6666666666667
             }
         },
         "Stage/proberund.json#BaseChip_pipo": {
@@ -1441,14 +1456,14 @@
     "property.type": "string",
     "recentFiles": [
         "Stage/Stage1.json",
+        "Stage/proberund.json",
+        "Stage/Stage2.json",
         "Stage/backstage.json",
         "Stage/Winterbuehne.json",
         "start.json",
-        "Stage/proberund.json",
         "Stage/foyer.json",
         "startw.json",
         "Stage/probe.json",
-        "Stage/Stage2.json",
         "Stage/Stage3.json",
         "startJS.json",
         "Stage/Galarie.json"
