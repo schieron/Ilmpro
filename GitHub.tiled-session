@@ -857,7 +857,7 @@
             "scale": 0.9036875,
             "selectedLayer": 6,
             "viewCenter": {
-                "x": 310.9481983539664,
+                "x": 311.50148696313715,
                 "y": 405.0072619129954
             }
         },
@@ -883,8 +883,8 @@
             "scale": 1.2542968749999999,
             "selectedLayer": 7,
             "viewCenter": {
-                "x": 188.95048271566492,
-                "y": 291.7969479912799
+                "x": 189.3491124260355,
+                "y": 291.79694799128
             }
         },
         "Stage/Stage2.json#BaseChip_pipo": {
@@ -1230,11 +1230,11 @@
             "scaleInEditor": 1
         },
         "Stage/proberund.json": {
-            "scale": 0.75,
-            "selectedLayer": 26,
+            "scale": 1,
+            "selectedLayer": 31,
             "viewCenter": {
-                "x": 717.9999999999999,
-                "y": 510.6666666666667
+                "x": 625.5,
+                "y": 663
             }
         },
         "Stage/proberund.json#BaseChip_pipo": {
