@@ -1173,6 +1173,8 @@
                  "y":0
                 }],
          "name":"Verstecke",
+         "offsetx":0,
+         "offsety":96,
          "opacity":1,
          "type":"group",
          "visible":true,

@@ -936,7 +936,7 @@
             "selectedLayer": 90,
             "viewCenter": {
                 "x": 528.6666666666666,
-                "y": 540
+                "y": 520
             }
         },
         "Stage/Stage4.json#BaseChip_pipo": {
@@ -1066,7 +1066,7 @@
             "scale": 0.9336718749999999,
             "selectedLayer": 26,
             "viewCenter": {
-                "x": 335.7710651828299,
+                "x": 256.51409923855744,
                 "y": 321.3120240984018
             }
         },
@@ -1193,8 +1193,8 @@
             "scale": 0.4552083333333333,
             "selectedLayer": 18,
             "viewCenter": {
-                "x": 356.9794050343249,
-                "y": 630.4805491990847
+                "x": 356.9794050343248,
+                "y": 632.6773455377576
             }
         },
         "Stage/probe.json#BaseChip_pipo": {
@@ -1505,9 +1505,9 @@
     "project": "GitHub.tiled-project",
     "property.type": "string",
     "recentFiles": [
-        "Stage/backstage.json",
         "Stage/Stage4.json",
         "Stage/proberund.json",
+        "Stage/backstage.json",
         "Stage/Winterbuehne.json",
         "Stage/Stage1.json",
         "Stage/Stage2.json",
