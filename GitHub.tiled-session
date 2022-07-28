@@ -3,10 +3,10 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Stage/backstage.json",
+    "activeFile": "Stage/proberund.json",
     "expandedProjectPaths": [
-        ".",
-        "Stage"
+        "Stage",
+        "."
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
@@ -931,6 +931,47 @@
         "Stage/Stage3.json#spot3": {
             "scaleInDock": 1
         },
+        "Stage/Stage4.json": {
+            "scale": 0.75,
+            "selectedLayer": 90,
+            "viewCenter": {
+                "x": 528.6666666666666,
+                "y": 540
+            }
+        },
+        "Stage/Stage4.json#BaseChip_pipo": {
+            "scaleInDock": 1
+        },
+        "Stage/Stage4.json#Interior": {
+            "scaleInDock": 1
+        },
+        "Stage/Stage4.json#Logo_transparens": {
+            "scaleInDock": 1
+        },
+        "Stage/Stage4.json#Outside Objects": {
+            "scaleInDock": 1
+        },
+        "Stage/Stage4.json#STAGE2": {
+            "scaleInDock": 1
+        },
+        "Stage/Stage4.json#Terrain_and_Outside": {
+            "scaleInDock": 1
+        },
+        "Stage/Stage4.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "Stage/Stage4.json#house_inside": {
+            "scaleInDock": 1
+        },
+        "Stage/Stage4.json#logoimpr": {
+            "scaleInDock": 1
+        },
+        "Stage/Stage4.json#mapUtilities": {
+            "scaleInDock": 1
+        },
+        "Stage/Stage4.json#spot3": {
+            "scaleInDock": 1
+        },
         "Stage/StageFestival.json": {
             "scale": 0.8427951388888889,
             "selectedLayer": 17,
@@ -983,8 +1024,8 @@
             "scale": 2,
             "selectedLayer": 6,
             "viewCenter": {
-                "x": 473.25,
-                "y": 532.25
+                "x": 472.75,
+                "y": 418
             }
         },
         "Stage/Winterbuehne.json#BaseChip_pipo": {
@@ -1025,8 +1066,8 @@
             "scale": 0.9336718749999999,
             "selectedLayer": 26,
             "viewCenter": {
-                "x": 101.21328759099657,
-                "y": 341.6617856246339
+                "x": 335.7710651828299,
+                "y": 321.3120240984018
             }
         },
         "Stage/backstage.json#Adventskranz": {
@@ -1190,10 +1231,10 @@
         },
         "Stage/proberund.json": {
             "scale": 0.75,
-            "selectedLayer": 31,
+            "selectedLayer": 26,
             "viewCenter": {
-                "x": 358.66666666666663,
-                "y": 538.6666666666667
+                "x": 717.9999999999999,
+                "y": 510.6666666666667
             }
         },
         "Stage/proberund.json#BaseChip_pipo": {
@@ -1201,6 +1242,9 @@
             "scaleInEditor": 1
         },
         "Stage/proberund.json#Interior": {
+            "scaleInDock": 1
+        },
+        "Stage/proberund.json#Logo_transparens": {
             "scaleInDock": 1
         },
         "Stage/proberund.json#Outside Objects": {
@@ -1454,23 +1498,25 @@
     "map.lastUsedFormat": "json",
     "map.width": 20,
     "openFiles": [
-        "Stage/backstage.json"
+        "Stage/backstage.json",
+        "Stage/Stage4.json",
+        "Stage/proberund.json"
     ],
     "project": "GitHub.tiled-project",
     "property.type": "string",
     "recentFiles": [
         "Stage/backstage.json",
-        "Stage/Stage1.json",
+        "Stage/Stage4.json",
         "Stage/proberund.json",
-        "Stage/Stage2.json",
         "Stage/Winterbuehne.json",
+        "Stage/Stage1.json",
+        "Stage/Stage2.json",
         "start.json",
         "Stage/foyer.json",
         "startw.json",
         "Stage/probe.json",
         "Stage/Stage3.json",
-        "startJS.json",
-        "Stage/Galarie.json"
+        "startJS.json"
     ],
     "resizeMap.removeObjects": true,
     "tileset.embedInMap": true,
