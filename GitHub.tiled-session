@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Stage/proberund.json",
+    "activeFile": "Stage/altherrenhausgrundriss.json",
     "expandedProjectPaths": [
         "Stage",
         "."
@@ -857,8 +857,8 @@
             "scale": 0.9036875,
             "selectedLayer": 6,
             "viewCenter": {
-                "x": 311.50148696313715,
-                "y": 405.0072619129954
+                "x": 399.47437582128777,
+                "y": 399.4743758212878
             }
         },
         "Stage/Stage1.json#BaseChip_pipo": {
@@ -883,8 +883,8 @@
             "scale": 1.2542968749999999,
             "selectedLayer": 7,
             "viewCenter": {
-                "x": 189.3491124260355,
-                "y": 291.79694799128
+                "x": 303.75583930239804,
+                "y": 287.81065088757396
             }
         },
         "Stage/Stage2.json#BaseChip_pipo": {
@@ -935,8 +935,8 @@
             "scale": 0.75,
             "selectedLayer": 90,
             "viewCenter": {
-                "x": 528.6666666666666,
-                "y": 520
+                "x": 528.6666666666665,
+                "y": 560
             }
         },
         "Stage/Stage4.json#BaseChip_pipo": {
@@ -970,6 +970,47 @@
             "scaleInDock": 1
         },
         "Stage/Stage4.json#spot3": {
+            "scaleInDock": 1
+        },
+        "Stage/StageBase.json": {
+            "scale": 0.75,
+            "selectedLayer": 26,
+            "viewCenter": {
+                "x": 528.6666666666665,
+                "y": 560
+            }
+        },
+        "Stage/StageBase.json#BaseChip_pipo": {
+            "scaleInDock": 1
+        },
+        "Stage/StageBase.json#Interior": {
+            "scaleInDock": 1
+        },
+        "Stage/StageBase.json#Logo_transparens": {
+            "scaleInDock": 1
+        },
+        "Stage/StageBase.json#Outside Objects": {
+            "scaleInDock": 1
+        },
+        "Stage/StageBase.json#STAGE2": {
+            "scaleInDock": 1
+        },
+        "Stage/StageBase.json#Terrain_and_Outside": {
+            "scaleInDock": 1
+        },
+        "Stage/StageBase.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "Stage/StageBase.json#house_inside": {
+            "scaleInDock": 1
+        },
+        "Stage/StageBase.json#logoimpr": {
+            "scaleInDock": 1
+        },
+        "Stage/StageBase.json#mapUtilities": {
+            "scaleInDock": 1
+        },
+        "Stage/StageBase.json#spot3": {
             "scaleInDock": 1
         },
         "Stage/StageFestival.json": {
@@ -1062,12 +1103,47 @@
         "Stage/Winterbuehne.json#upholstery-recolors": {
             "scaleInDock": 1
         },
+        "Stage/altherrenhausgrundriss.json": {
+            "scale": 1,
+            "selectedLayer": 29,
+            "viewCenter": {
+                "x": 686.5,
+                "y": 618
+            }
+        },
+        "Stage/altherrenhausgrundriss.json#BaseChip_pipo": {
+            "scaleInDock": 1
+        },
+        "Stage/altherrenhausgrundriss.json#Interior": {
+            "scaleInDock": 1
+        },
+        "Stage/altherrenhausgrundriss.json#Interior 2": {
+            "scaleInDock": 1
+        },
+        "Stage/altherrenhausgrundriss.json#Outside Objects": {
+            "scaleInDock": 1
+        },
+        "Stage/altherrenhausgrundriss.json#STAGE2": {
+            "scaleInDock": 1
+        },
+        "Stage/altherrenhausgrundriss.json#house_inside": {
+            "scaleInDock": 1
+        },
+        "Stage/altherrenhausgrundriss.json#logoimpr": {
+            "scaleInDock": 1
+        },
+        "Stage/altherrenhausgrundriss.json#mapUtilities": {
+            "scaleInDock": 1
+        },
+        "Stage/altherrenhausgrundriss.json#spot3": {
+            "scaleInDock": 1
+        },
         "Stage/backstage.json": {
             "scale": 0.9336718749999999,
             "selectedLayer": 26,
             "viewCenter": {
-                "x": 256.51409923855744,
-                "y": 321.3120240984018
+                "x": 335.23554514266584,
+                "y": 319.16994393774576
             }
         },
         "Stage/backstage.json#Adventskranz": {
@@ -1193,8 +1269,8 @@
             "scale": 0.4552083333333333,
             "selectedLayer": 18,
             "viewCenter": {
-                "x": 356.9794050343248,
-                "y": 632.6773455377576
+                "x": 463.52402745995425,
+                "y": 527.2311212814645
             }
         },
         "Stage/probe.json#BaseChip_pipo": {
@@ -1233,8 +1309,8 @@
             "scale": 1,
             "selectedLayer": 31,
             "viewCenter": {
-                "x": 625.5,
-                "y": 663
+                "x": 528,
+                "y": 544
             }
         },
         "Stage/proberund.json#BaseChip_pipo": {
@@ -1499,24 +1575,28 @@
     "map.width": 20,
     "openFiles": [
         "Stage/backstage.json",
+        "Stage/altherrenhausgrundriss.json",
+        "Stage/proberund.json",
+        "Stage/StageBase.json",
         "Stage/Stage4.json",
-        "Stage/proberund.json"
+        "Stage/Stage2.json",
+        "Stage/Stage1.json"
     ],
     "project": "GitHub.tiled-project",
     "property.type": "string",
     "recentFiles": [
-        "Stage/Stage4.json",
-        "Stage/proberund.json",
         "Stage/backstage.json",
-        "Stage/Winterbuehne.json",
         "Stage/Stage1.json",
         "Stage/Stage2.json",
+        "Stage/Stage4.json",
+        "Stage/StageBase.json",
+        "Stage/proberund.json",
+        "Stage/altherrenhausgrundriss.json",
+        "Stage/Winterbuehne.json",
+        "Stage/probe.json",
         "start.json",
         "Stage/foyer.json",
-        "startw.json",
-        "Stage/probe.json",
-        "Stage/Stage3.json",
-        "startJS.json"
+        "startw.json"
     ],
     "resizeMap.removeObjects": true,
     "tileset.embedInMap": true,
