@@ -110,7 +110,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":" https:\/\/morty.fem.tu-ilmenau.de\/icecast\/impro.opus"
+                 "value":"https:\/\/ilmprokombinat.ddns.net:8443\/ilmpro.opus"
                 }],
          "type":"tilelayer",
          "visible":true,

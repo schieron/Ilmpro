@@ -36,7 +36,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"--streamurl--"
+                 "value":"https:\/\/ilmprokombinat.ddns.net:8443\/ilmpro.opus"
                 }],
          "type":"tilelayer",
          "visible":true,
