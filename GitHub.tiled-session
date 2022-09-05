@@ -5,8 +5,8 @@
     },
     "activeFile": "Stage/proberund.json",
     "expandedProjectPaths": [
-        ".",
-        "Stage"
+        "Stage",
+        "."
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
@@ -828,7 +828,7 @@
             "scale": 0.75,
             "selectedLayer": 23,
             "viewCenter": {
-                "x": 80,
+                "x": 79.33333333333333,
                 "y": 271.99999999999994
             }
         },
@@ -857,8 +857,8 @@
             "scale": 0.9036875,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 399.4743758212878,
-                "y": 399.4743758212878
+                "x": 400.5809530396292,
+                "y": 400.58095303962926
             }
         },
         "Stage/Stage1.json#BaseChip_pipo": {
@@ -883,7 +883,7 @@
             "scale": 1.2542968749999999,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 303.75583930239804,
+                "x": 303.755839302398,
                 "y": 287.81065088757396
             }
         },
@@ -933,10 +933,10 @@
         },
         "Stage/Stage4.json": {
             "scale": 0.75,
-            "selectedLayer": 22,
+            "selectedLayer": 24,
             "viewCenter": {
-                "x": 528,
-                "y": 560
+                "x": 411.9999999999999,
+                "y": 558.6666666666666
             }
         },
         "Stage/Stage4.json#BaseChip_pipo": {
@@ -976,8 +976,8 @@
             "scale": 0.75,
             "selectedLayer": 26,
             "viewCenter": {
-                "x": 528,
-                "y": 560
+                "x": 411.9999999999999,
+                "y": 558.6666666666666
             }
         },
         "Stage/StageBase.json#BaseChip_pipo": {
@@ -1065,7 +1065,7 @@
             "scale": 2,
             "selectedLayer": 6,
             "viewCenter": {
-                "x": 512.5,
+                "x": 512.25,
                 "y": 512
             }
         },
@@ -1105,10 +1105,10 @@
         },
         "Stage/altherrenhausgrundriss.json": {
             "scale": 1,
-            "selectedLayer": 8,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 688,
-                "y": 528
+                "x": 927.5,
+                "y": 592
             }
         },
         "Stage/altherrenhausgrundriss.json#BaseChip_pipo": {
@@ -1142,7 +1142,7 @@
             "scale": 0.9336718749999999,
             "selectedLayer": 26,
             "viewCenter": {
-                "x": 335.23554514266584,
+                "x": 335.7710651828299,
                 "y": 319.16994393774576
             }
         },
@@ -1309,8 +1309,8 @@
             "scale": 1,
             "selectedLayer": 22,
             "viewCenter": {
-                "x": 528.5,
-                "y": 544
+                "x": 533,
+                "y": 539
             }
         },
         "Stage/proberund.json#BaseChip_pipo": {
@@ -1398,7 +1398,7 @@
             "scale": 1.123336693548387,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 495.8442141158523,
+                "x": 495.399111589716,
                 "y": 271.5125409431507
             }
         },
@@ -1579,8 +1579,6 @@
         "Stage/proberund.json",
         "Stage/StageBase.json",
         "Stage/Stage4.json",
-        "Stage/Stage2.json",
-        "Stage/Stage1.json",
         "Stage/Galarie.json",
         "Stage/Winterbuehne.json",
         "map.json"
@@ -1593,11 +1591,11 @@
         "map.json",
         "Stage/Winterbuehne.json",
         "Stage/Galarie.json",
-        "Stage/Stage1.json",
-        "Stage/Stage2.json",
         "Stage/Stage4.json",
         "Stage/StageBase.json",
         "Stage/proberund.json",
+        "Stage/Stage1.json",
+        "Stage/Stage2.json",
         "start.json",
         "Stage/probe.json"
     ],
