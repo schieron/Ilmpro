@@ -65,7 +65,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"..\/..\/..\/schieron.github.io\/Ilmpro\/Stage\/blankomap.json#start"
+                         "value":"..\/..\/..\/schieron.github.io\/Ilmpro\/Stage\/blankomap.json"
                         }],
                  "type":"tilelayer",
                  "visible":true,
