@@ -1173,6 +1173,12 @@
                  "id":6,
                  "name":"bstart",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"startLayer",
+                         "type":"bool",
+                         "value":true
+                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":50,
