@@ -123,7 +123,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/ilmprokombinat.ddns.net:8443\/ilmpro.opus"
+                 "value":"https:\/\/schieron.ddns.net:8443\/ilmpro.opus"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -262,7 +262,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.5.0",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -860,6 +860,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.5,
+ "version":"1.6",
  "width":32
 }

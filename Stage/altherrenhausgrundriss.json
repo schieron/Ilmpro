@@ -129,7 +129,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"https:\/\/bit.ly\/3D1Pik0"
+                         "value":"https:\/\/schieron.ddns.net:8443\/ilmpro.opus"
                         }],
                  "type":"tilelayer",
                  "visible":true,

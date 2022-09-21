@@ -5,8 +5,8 @@
     },
     "activeFile": "Stage/blankomap.json",
     "expandedProjectPaths": [
-        ".",
-        "Stage"
+        "Stage",
+        "."
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
@@ -857,7 +857,7 @@
             "scale": 0.9036875,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 442.0775987274362,
+                "x": 442.07759872743617,
                 "y": 400.58095303962926
             }
         },
@@ -883,7 +883,7 @@
             "scale": 1.2542968749999999,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 303.755839302398,
+                "x": 304.15446901276863,
                 "y": 287.81065088757396
             }
         },
@@ -907,19 +907,34 @@
         },
         "Stage/Stage3.json": {
             "scale": 1.2542968749999999,
-            "selectedLayer": 5,
+            "selectedLayer": 22,
             "viewCenter": {
-                "x": 288.20928059794454,
+                "x": 288.2092805979446,
                 "y": 200.11211460604176
             }
         },
         "Stage/Stage3.json#BaseChip_pipo": {
             "scaleInDock": 1
         },
+        "Stage/Stage3.json#Interior": {
+            "scaleInDock": 1
+        },
+        "Stage/Stage3.json#Logo_transparens": {
+            "scaleInDock": 1
+        },
+        "Stage/Stage3.json#Outside Objects": {
+            "scaleInDock": 1
+        },
         "Stage/Stage3.json#STAGE2": {
             "scaleInDock": 1
         },
+        "Stage/Stage3.json#Terrain_and_Outside": {
+            "scaleInDock": 1
+        },
         "Stage/Stage3.json#floortileset": {
+            "scaleInDock": 1
+        },
+        "Stage/Stage3.json#house_inside": {
             "scaleInDock": 1
         },
         "Stage/Stage3.json#logoimpr": {
@@ -974,7 +989,7 @@
         },
         "Stage/StageBase.json": {
             "scale": 0.75,
-            "selectedLayer": 26,
+            "selectedLayer": 22,
             "viewCenter": {
                 "x": 527.3333333333333,
                 "y": 560
@@ -1063,7 +1078,7 @@
         },
         "Stage/Winterbuehne.json": {
             "scale": 2,
-            "selectedLayer": 6,
+            "selectedLayer": 7,
             "viewCenter": {
                 "x": 530.25,
                 "y": 511.5
@@ -1105,7 +1120,7 @@
         },
         "Stage/altherrenhausgrundriss.json": {
             "scale": 1,
-            "selectedLayer": 2,
+            "selectedLayer": 8,
             "viewCenter": {
                 "x": 889.5,
                 "y": 591
@@ -1138,11 +1153,46 @@
         "Stage/altherrenhausgrundriss.json#spot3": {
             "scaleInDock": 1
         },
+        "Stage/altherrenhausgrundriss_alt.json": {
+            "scale": 0.6485069444444445,
+            "selectedLayer": 8,
+            "viewCenter": {
+                "x": 688.5045778229909,
+                "y": 528.9072120790277
+            }
+        },
+        "Stage/altherrenhausgrundriss_alt.json#BaseChip_pipo": {
+            "scaleInDock": 1
+        },
+        "Stage/altherrenhausgrundriss_alt.json#Interior": {
+            "scaleInDock": 1
+        },
+        "Stage/altherrenhausgrundriss_alt.json#Interior 2": {
+            "scaleInDock": 1
+        },
+        "Stage/altherrenhausgrundriss_alt.json#Outside Objects": {
+            "scaleInDock": 1
+        },
+        "Stage/altherrenhausgrundriss_alt.json#STAGE2": {
+            "scaleInDock": 1
+        },
+        "Stage/altherrenhausgrundriss_alt.json#house_inside": {
+            "scaleInDock": 1
+        },
+        "Stage/altherrenhausgrundriss_alt.json#logoimpr": {
+            "scaleInDock": 1
+        },
+        "Stage/altherrenhausgrundriss_alt.json#mapUtilities": {
+            "scaleInDock": 1
+        },
+        "Stage/altherrenhausgrundriss_alt.json#spot3": {
+            "scaleInDock": 1
+        },
         "Stage/backstage.json": {
             "scale": 0.9336718749999999,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 257.58513931888547,
+                "x": 257.5851393188854,
                 "y": -387.71650907873817
             }
         },
@@ -1194,10 +1244,10 @@
         },
         "Stage/blankomap.json": {
             "scale": 0.6376875,
-            "selectedLayer": 28,
+            "selectedLayer": 23,
             "viewCenter": {
-                "x": 842.1052631578948,
-                "y": 624.1301577967265
+                "x": 628.0505733607763,
+                "y": -551.9945114182104
             }
         },
         "Stage/blankomap.json#STAGE2": {
@@ -1210,6 +1260,20 @@
             "scaleInDock": 1
         },
         "Stage/blankomap.json#mapUtilities": {
+            "scaleInDock": 1
+        },
+        "Stage/blankomap_v1.json": {
+            "scale": 0.5722120098039215,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 785.5480002141672,
+                "y": 592.4377576698613
+            }
+        },
+        "Stage/blankomap_v1.json#STAGE2": {
+            "scaleInDock": 1
+        },
+        "Stage/blankomap_v1.json#mapUtilities": {
             "scaleInDock": 1
         },
         "Stage/foyer.json": {
@@ -1329,7 +1393,7 @@
             "scale": 1,
             "selectedLayer": 22,
             "viewCenter": {
-                "x": 455,
+                "x": 455.5,
                 "y": 606
             }
         },
@@ -1470,7 +1534,7 @@
             "scale": 0.75,
             "selectedLayer": 99,
             "viewCenter": {
-                "x": 798.6666666666666,
+                "x": 798,
                 "y": 686.6666666666666
             }
         },
@@ -1599,18 +1663,18 @@
     "project": "GitHub.tiled-project",
     "property.type": "string",
     "recentFiles": [
+        "Stage/proberund.json",
+        "Stage/probe.json",
+        "Stage/Stage1.json",
+        "Stage/Stage2.json",
+        "Stage/Stage3.json",
+        "Stage/StageBase.json",
+        "Stage/Winterbuehne.json",
         "Stage/blankomap.json",
         "Stage/backstage.json",
         "Stage/altherrenhausgrundriss.json",
-        "Stage/proberund.json",
-        "Stage/StageBase.json",
         "Stage/Stage4.json",
-        "Stage/Galarie.json",
-        "Stage/Winterbuehne.json",
-        "map.json",
-        "Stage/probe.json",
-        "Stage/Stage1.json",
-        "Stage/Stage2.json"
+        "Stage/Galarie.json"
     ],
     "resizeMap.removeObjects": true,
     "tileset.embedInMap": true,
