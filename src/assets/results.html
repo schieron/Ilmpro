@@ -6,12 +6,87 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Vote</title>
 <style>
-    
-</style>
-    <script>
-WA.onInit().then({} => {});
+ body
+    {
+     font-family: "Lucida";
+     line-height:20px;
+     color: black;
+       
+     }
+.poll-results{
+    background-color: aqua;
+    border-radius: 9px,8px,0,0;
+    border: 1px,10px,5px,10px;
+    padding: 5px,10px,5px,10px;
+}     
+.poll-header{
+    margin-bottom: 5px;
+}
+.poll-qustion{
+    font-weight: bold;
+} 
 
-function updateProfil( voteA =0,voteB =0,voteC =0,voteD =0){
+.poll-result-list{
+    list-style-type: none;
+}
+
+.poll-answer-header{
+    list-style-type: none;
+    margin-right: 28px;
+    display: flex;
+    justify-content: space-between;
+    float: left;
+}
+.poll-answer-name{
+    list-style-type: none;
+    flex-shrink: 1;
+    overflow-wrap: anywhere;
+}
+.poll-answer-short.results{
+    list-style-type: none;
+    display: flex;
+    min-width: 10en;
+    justify-content: space-between;
+    align-items:center;
+}
+
+.poll-bar-container{
+    list-style-type: none;
+    border-radius: 2px;
+    height: 6px;
+    background-color: rgba(0,155,0,0.2);
+    max-width: 168px;
+    margin-top: 3px;
+    flex: 1;
+}
+.poll-bar{
+    list-style-type: none;
+    border-radius: 2px;
+    height: 6px;
+    background-color: rgba(0,0,200,0.8)
+}
+#poll-bar-vote-a{
+    background-color: rgba(97,0,0,1)
+}
+#poll-bar-vote-b{
+    background-color: rgba(97,50,0,0.5)
+}
+#poll-bar-vote-c{
+    background-color: rgba(97,200,0,1)
+}
+#poll-bar-vote-d{
+    background-color: rgba(97,50,150,1)
+}
+
+</style>
+<script src="https://playworkadventure.re/iframe_api.js">    </script>
+<script>
+
+WA.onInit().then({} => {
+    updatePoll(2,18,15,24);
+});
+
+function updatePoll( voteA =0,voteB =0,voteC =0,voteD =0){
     totalVote = voteA + voteB + voteC +voteD;
     document.getElementById("voteA").innerHTML = voteA;
     document.getElementById("voteB").innerHTML = voteB;
@@ -35,6 +110,57 @@ function updateProfil( voteA =0,voteB =0,voteC =0,voteD =0){
 </head>
 
 <body>
-    
+   <div class="poll-results">
+    <div class="poll-header">
+        <div>
+            <ol class="poll-result-list">
+                <li>
+              <!----------------------------------------------------------------------------------------------------------------------------------->  
+
+                    <div class="poll-answer-header"><span class="poll-answer-vote-name">A</span></div>
+                    <div class="poll-answer.short.results">
+                        <span class="poll-bar-container"><div class="poll-bar" id="poll-bar-vote-a" style="width:8%"></div></span>
+                        <div class="poll-answer-vote-count container">
+                        <span class="poll-answer--vote-count">{<span id="voteA">A</span>} <span id="percentageVoteA">A</span> </span>
+                        </div>
+                    </div>
+              
+              <!----------------------------------------------------------------------------------------------------------------------------------->  
+              <!----------------------------------------------------------------------------------------------------------------------------------->  
+
+                    <div class="poll-answer-header"><span class="poll-answer-vote-name">B</span></div>
+                    <div class="poll-answer.short.results">
+                        <span class="poll-bar-container"><div class="poll-bar" id="poll-bar-vote-b" style="width:8%"></div></span>
+                         <div class="poll-answer-vote-count container">
+                        <span class="poll-answer--vote-count">{<span id="voteB">A</span>} <span id="percentageVoteB">B</span> </span>
+                        </div>
+                    </div>
+                    <!----------------------------------------------------------------------------------------------------------------------------------->  
+                    <div class="poll-answer-header"><span class="poll-answer-vote-name">C</span></div>
+                    <div class="poll-answer.short.results">
+                                <span class="poll-bar-container"><div class="poll-bar" id="poll-bar-vote-c" style="width:8%"></div></span>
+                          <div class="poll-answer-vote-count container">
+                                <span class="poll-answer--vote-count">{<span id="voteC">C</span>} <span id="percentageVoteC">C</span> </span>
+                          </div>
+                    </div>
+                <!----------------------------------------------------------------------------------------------------------------------------------->  
+
+                <div class="poll-answer-header"><span class="poll-answer-vote-name">D</span></div>
+                <div class="poll-answer.short.results">
+                    <span class="poll-bar-container"><div class="poll-bar" id="poll-bar-vote-d" style="width:8%"></div></span>
+                    <div class="poll-answer-vote-count container">
+                    <span class="poll-answer--vote-count">{<span id="voteA">D</span>} <span id="percentageVoteD">D</span> </span>
+                    </div>
+                </div>
+          <!----------------------------------------------------------------------------------------------------------------------------------->  
+         
+             </li>
+
+            </ol>
+        </div>       
+    </div> 
+
+   </div> 
+
 </body>
 </html>

@@ -1,11 +1,4 @@
 { "compressionlevel":-1,
- "editorsettings":
-    {
-     "export":
-        {
-         "target":"."
-        }
-    },
  "height":17,
  "infinite":false,
  "layers":[
@@ -173,6 +166,17 @@
                  "width":128,
                  "x":512,
                  "y":0
+                }, 
+                {
+                 "height":128,
+                 "id":9,
+                 "name":"life",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":192,
+                 "x":32,
+                 "y":96
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -217,7 +221,7 @@
          "y":0
         }],
  "nextlayerid":40,
- "nextobjectid":9,
+ "nextobjectid":10,
  "orientation":"orthogonal",
  "properties":[
         {
@@ -251,7 +255,7 @@
          "value":"script.js"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.7.2",
  "tileheight":32,
  "tilesets":[
         {
@@ -361,6 +365,6 @@
         }],
  "tilewidth":32,
  "type":"map",
- "version":1.4,
+ "version":"1.6",
  "width":31
 }

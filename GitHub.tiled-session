@@ -1155,9 +1155,9 @@
         },
         "Stage/altherrenhausgrundriss0.json": {
             "scale": 0.559609375,
-            "selectedLayer": 48,
+            "selectedLayer": 54,
             "viewCenter": {
-                "x": 610.2471031690633,
+                "x": 855.0607287449393,
                 "y": 587.9100935362279
             }
         },
@@ -1515,9 +1515,9 @@
         },
         "map.json": {
             "scale": 1.123336693548387,
-            "selectedLayer": 1,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 186.49795845111498,
+                "x": 308.4560506124647,
                 "y": 267.95172073406025
             }
         },
