@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vote</title>
+<style>
+    
+</style>
+    <script>
+WA.onInit().then({} => {});
+
+function updateProfil( voteA =0,voteB =0,voteC =0,voteD =0){
+    totalVote = voteA + voteB + voteC +voteD;
+    document.getElementById("voteA").innerHTML = voteA;
+    document.getElementById("voteB").innerHTML = voteB;
+    document.getElementById("voteC").innerHTML = voteC;
+    document.getElementById("voteD").innerHTML = voteD;
+
+    let percentageVoteA = totalVote != 0 ? parseInt(voteA / totalVote * 100) +"%" : "0%";
+    let percentageVoteB = totalVote != 0 ? parseInt(voteB / totalVote * 100) +"%" : "0%";
+    let percentageVoteC = totalVote != 0 ? parseInt(voteC / totalVote * 100) +"%" : "0%";
+    let percentageVoteD = totalVote != 0 ? parseInt(voteD / totalVote * 100) +"%" : "0%";
+
+
+    document.getElementById("percentageVoteA").innerHTML = document.getElementById("poll-bar-vote-a".style.width) = percentageVoteA;
+    document.getElementById("percentageVoteB").innerHTML = document.getElementById("poll-bar-vote-b".style.width) = percentageVoteB;
+    document.getElementById("percentageVoteC").innerHTML = document.getElementById("poll-bar-vote-c".style.width) = percentageVoteC;
+    document.getElementById("percentageVoteD").innerHTML = document.getElementById("poll-bar-vote-d".style.width) = percentageVoteD;
+
+}
+
+</script>
+</head>
+
+<body>
+    
+</body>
+</html>

@@ -635,6 +635,12 @@
                  "y":768
                 }],
          "opacity":1,
+         "properties":[
+                {
+                 "name":"script",
+                 "type":"string",
+                 "value":"script.js"
+                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
