@@ -27,7 +27,7 @@ function closePopUp(){
 }
 
 // let stream = "ilmpro.m3u"
-let stream ="https://ilmprokombinat.ddns.net:8443/ilmpro.opus"
+let stream ="https://schieron.ddns.net:8443/ilmpro.opus"
 
 WA.room.onEnterZone('life', () => {
     console.log("Enter Zone")
@@ -45,5 +45,19 @@ WA.room.onEnterZone('life', () => {
 });
 
 
+WA.room.onLeaveZone('life', stopStream){
 
-//mySound.stop();
+}
+function stopStream(){
+    playAuftritt =  WA.sound.loadSound(stream);
+    var config = {
+        volume : 1.5,
+        loop : false,
+        rate : 1,
+        detune : 1,
+        delay : 0,
+        seek : 0,
+        mute : true
+    }
+    playAuftritt.stop();
+}
