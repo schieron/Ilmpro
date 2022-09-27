@@ -614,7 +614,7 @@
          "name":"Deko",
          "opacity":1,
          "type":"group",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }, 
@@ -622,7 +622,18 @@
          "draworder":"topdown",
          "id":5,
          "name":"floorLayer",
-         "objects":[],
+         "objects":[
+                {
+                 "height":96,
+                 "id":2,
+                 "name":"life",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":96,
+                 "x":512,
+                 "y":768
+                }],
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
@@ -642,7 +653,7 @@
          "y":0
         }],
  "nextlayerid":80,
- "nextobjectid":2,
+ "nextobjectid":3,
  "orientation":"orthogonal",
  "properties":[
         {

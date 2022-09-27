@@ -1154,11 +1154,11 @@
             "scaleInDock": 1
         },
         "Stage/altherrenhausgrundriss_alt.json": {
-            "scale": 0.5,
-            "selectedLayer": 22,
+            "scale": 0.33,
+            "selectedLayer": 48,
             "viewCenter": {
-                "x": 962,
-                "y": 434
+                "x": 962.1212121212122,
+                "y": 915.151515151515
             }
         },
         "Stage/altherrenhausgrundriss_alt.json#BaseChip_pipo": {
@@ -1482,8 +1482,8 @@
             "scale": 1.123336693548387,
             "selectedLayer": 10,
             "viewCenter": {
-                "x": 345.3995602817786,
-                "y": 269.7321308386055
+                "x": 396.58635078745453,
+                "y": 268.8419257863329
             }
         },
         "map.json#Special_Zones": {
