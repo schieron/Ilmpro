@@ -1702,6 +1702,7 @@
     "project": "GitHub.tiled-project",
     "property.type": "string",
     "recentFiles": [
+        "Stage/altherrenhausgrundriss.json",
         "Stage/backstage.json",
         "start.json",
         "Stage/altherrenhausgrundriss0.json",
@@ -1712,7 +1713,6 @@
         "map.json",
         "Stage/foyer.json",
         "Stage/Winterbuehne.json",
-        "Stage/altherrenhausgrundriss.json",
         "Stage/proberund.json"
     ],
     "resizeMap.removeObjects": true,

@@ -26,6 +26,15 @@ function closePopUp(){
     }
 }
 
+
+WA.room.onEnterZone('door', () => {
+    currentPopup =  WA.ui.openPopup("door","Enter The Password",[]);
+})
+
+WA.room.onLeaveZone('door', closePopUp)
+
+
+
 // let stream = "ilmpro.m3u"
 let stream ="https://schieron.ddns.net:8443/ilmpro.opus"
 
