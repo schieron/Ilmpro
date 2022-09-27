@@ -714,6 +714,23 @@
                  "width":96,
                  "x":512,
                  "y":768
+                }, 
+                {
+                 "height":256,
+                 "id":9,
+                 "name":"",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/profilgen.schieron.de\/"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":352,
+                 "x":1120,
+                 "y":192
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -751,7 +768,7 @@
          "y":0
         }],
  "nextlayerid":87,
- "nextobjectid":9,
+ "nextobjectid":10,
  "orientation":"orthogonal",
  "properties":[
         {
