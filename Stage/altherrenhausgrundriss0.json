@@ -168,7 +168,7 @@
          "name":"bstart",
          "opacity":1,
          "type":"group",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -226,7 +226,7 @@
          "name":"Zuschauerraum",
          "opacity":1,
          "type":"group",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -312,7 +312,7 @@
          "name":"Menti",
          "opacity":1,
          "type":"group",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -334,7 +334,7 @@
          "name":"Boden",
          "opacity":1,
          "type":"group",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -552,7 +552,7 @@
          "name":"Rooms",
          "opacity":1,
          "type":"group",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -574,7 +574,7 @@
          "name":"Ausgang",
          "opacity":1,
          "type":"group",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -614,7 +614,7 @@
          "name":"Deko",
          "opacity":1,
          "type":"group",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -636,7 +636,40 @@
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":80,
+         "name":"door",
+         "objects":[
+                {
+                 "height":32,
+                 "id":3,
+                 "name":"door",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":768,
+                 "y":544
+                }, 
+                {
+                 "height":0,
+                 "id":4,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":576,
+                 "y":896
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -652,8 +685,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":80,
- "nextobjectid":3,
+ "nextlayerid":81,
+ "nextobjectid":5,
  "orientation":"orthogonal",
  "properties":[
         {
