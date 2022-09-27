@@ -3,10 +3,10 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "Stage/foyer.json",
+    "activeFile": "Stage/blankomap.json",
     "expandedProjectPaths": [
-        ".",
-        "Stage"
+        "Stage",
+        "."
     ],
     "file.lastUsedOpenFilter": "Alle Dateien (*)",
     "fileStates": {
@@ -948,9 +948,9 @@
         },
         "Stage/Stage4.json": {
             "scale": 0.75,
-            "selectedLayer": 22,
+            "selectedLayer": 87,
             "viewCenter": {
-                "x": 528,
+                "x": 527.9999999999999,
                 "y": 560
             }
         },
@@ -1153,12 +1153,47 @@
         "Stage/altherrenhausgrundriss.json#spot3": {
             "scaleInDock": 1
         },
+        "Stage/altherrenhausgrundriss0.json": {
+            "scale": 0.559609375,
+            "selectedLayer": 8,
+            "viewCenter": {
+                "x": 841.658522965238,
+                "y": 593.2709758481084
+            }
+        },
+        "Stage/altherrenhausgrundriss0.json#BaseChip_pipo": {
+            "scaleInDock": 1
+        },
+        "Stage/altherrenhausgrundriss0.json#Interior": {
+            "scaleInDock": 1
+        },
+        "Stage/altherrenhausgrundriss0.json#Interior 2": {
+            "scaleInDock": 1
+        },
+        "Stage/altherrenhausgrundriss0.json#Outside Objects": {
+            "scaleInDock": 1
+        },
+        "Stage/altherrenhausgrundriss0.json#STAGE2": {
+            "scaleInDock": 1
+        },
+        "Stage/altherrenhausgrundriss0.json#house_inside": {
+            "scaleInDock": 1
+        },
+        "Stage/altherrenhausgrundriss0.json#logoimpr": {
+            "scaleInDock": 1
+        },
+        "Stage/altherrenhausgrundriss0.json#mapUtilities": {
+            "scaleInDock": 1
+        },
+        "Stage/altherrenhausgrundriss0.json#spot3": {
+            "scaleInDock": 1
+        },
         "Stage/altherrenhausgrundriss_alt.json": {
             "scale": 1,
             "selectedLayer": 48,
             "viewCenter": {
-                "x": 742.5,
-                "y": 891
+                "x": 632,
+                "y": 890
             }
         },
         "Stage/altherrenhausgrundriss_alt.json#BaseChip_pipo": {
@@ -1190,9 +1225,9 @@
         },
         "Stage/backstage.json": {
             "scale": 0.9336718749999999,
-            "selectedLayer": 1,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 335.23554514266584,
+                "x": 247.4102585557694,
                 "y": 319.16994393774576
             }
         },
@@ -1246,8 +1281,8 @@
             "scale": 0.6376875,
             "selectedLayer": 23,
             "viewCenter": {
-                "x": 782.5149465843381,
-                "y": 622.5619915711065
+                "x": 533.1765167107714,
+                "y": 302.65608154464377
             }
         },
         "Stage/blankomap.json#STAGE2": {
@@ -1480,10 +1515,10 @@
         },
         "map.json": {
             "scale": 1.123336693548387,
-            "selectedLayer": 10,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 396.58635078745453,
-                "y": 268.8419257863329
+                "x": 298.2186925113295,
+                "y": 267.95172073406025
             }
         },
         "map.json#Special_Zones": {
@@ -1534,7 +1569,7 @@
             "scale": 0.75,
             "selectedLayer": 99,
             "viewCenter": {
-                "x": 798.6666666666665,
+                "x": 798,
                 "y": 686.6666666666666
             }
         },
@@ -1659,30 +1694,26 @@
     "map.width": 20,
     "openFiles": [
         "Stage/blankomap.json",
-        "Stage/blankomap_v1.json",
-        "Stage/Stage4.json",
         "Stage/altherrenhausgrundriss_alt.json",
-        "Stage/altherrenhausgrundriss.json",
         "Stage/backstage.json",
         "start.json",
-        "map.json",
-        "Stage/foyer.json"
+        "Stage/altherrenhausgrundriss0.json"
     ],
     "project": "GitHub.tiled-project",
     "property.type": "string",
     "recentFiles": [
+        "Stage/backstage.json",
+        "start.json",
+        "Stage/altherrenhausgrundriss0.json",
         "Stage/altherrenhausgrundriss_alt.json",
-        "Stage/foyer.json",
-        "Stage/Winterbuehne.json",
         "Stage/blankomap.json",
         "Stage/blankomap_v1.json",
         "Stage/Stage4.json",
-        "Stage/altherrenhausgrundriss.json",
-        "Stage/backstage.json",
-        "start.json",
         "map.json",
-        "Stage/proberund.json",
-        "Stage/probe.json"
+        "Stage/foyer.json",
+        "Stage/Winterbuehne.json",
+        "Stage/altherrenhausgrundriss.json",
+        "Stage/proberund.json"
     ],
     "resizeMap.removeObjects": true,
     "tileset.embedInMap": true,
