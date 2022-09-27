@@ -1119,11 +1119,11 @@
             "scaleInDock": 1
         },
         "Stage/altherrenhausgrundriss.json": {
-            "scale": 1,
+            "scale": 0.5,
             "selectedLayer": 48,
             "viewCenter": {
-                "x": 927.5,
-                "y": 328
+                "x": 961,
+                "y": 698
             }
         },
         "Stage/altherrenhausgrundriss.json#BaseChip_pipo": {
@@ -1155,10 +1155,10 @@
         },
         "Stage/altherrenhausgrundriss_alt.json": {
             "scale": 0.6485069444444445,
-            "selectedLayer": 8,
+            "selectedLayer": 45,
             "viewCenter": {
-                "x": 687.7335760561118,
-                "y": 527.3652085452695
+                "x": 688.5045778229908,
+                "y": 527.3652085452696
             }
         },
         "Stage/altherrenhausgrundriss_alt.json#BaseChip_pipo": {
@@ -1671,12 +1671,12 @@
     "project": "GitHub.tiled-project",
     "property.type": "string",
     "recentFiles": [
+        "Stage/altherrenhausgrundriss_alt.json",
         "Stage/foyer.json",
         "Stage/Winterbuehne.json",
         "Stage/blankomap.json",
         "Stage/blankomap_v1.json",
         "Stage/Stage4.json",
-        "Stage/altherrenhausgrundriss_alt.json",
         "Stage/altherrenhausgrundriss.json",
         "Stage/backstage.json",
         "start.json",
