@@ -45,9 +45,7 @@ WA.room.onEnterZone('life', () => {
 });
 
 
-WA.room.onLeaveZone('life', stopStream){
-
-}
+WA.room.onLeaveZone('life', stopStream)
 function stopStream(){
     playAuftritt =  WA.sound.loadSound(stream);
     var config = {
