@@ -1,0 +1,5 @@
+Text eingefügt
+Programm: Paint.net
+Schriftart: KacstBook
+Größe: 10 Bold (für Stage und Sektor)
+Farbe: weiß
