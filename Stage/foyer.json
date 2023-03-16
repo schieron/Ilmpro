@@ -354,7 +354,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"..\/..\/..\/schieron.github.io\/Ilmpro\/Stage\/proberund.json"
+                         "value":"..\/..\/..\/schieron.github.io\/Ilmpro\/Stage\/altherrenhausgrundriss.json#start"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -560,6 +560,12 @@
                  "id":99,
                  "name":"Stage5",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"exitUrl",
+                         "type":"string",
+                         "value":"..\/..\/..\/schieron.github.io\/Ilmpro\/Stage\/altherrenhausgrundriss.json#start"
+                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":39,
