@@ -4,7 +4,7 @@
      "export":
         {
          "format":"json",
-         "target":"..\/OneDrive\/Dokumente\/altherrenhausgrundriss.json"
+         "target":"..\/altherrenhausgrundriss.json"
         }
     },
  "height":37,
@@ -1405,7 +1405,7 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"..\/Documents\/GitHub\/Impro\/Assets\/STAGE2.png",
+         "image":"..\/Assets\/STAGE2.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
@@ -1455,7 +1455,7 @@
         {
          "columns":9,
          "firstgid":65,
-         "image":"..\/Documents\/GitHub\/Impro\/Assets\/mapUtilities.png",
+         "image":"..\/Assets\/mapUtilities.png",
          "imageheight":32,
          "imagewidth":288,
          "margin":0,
@@ -1478,7 +1478,7 @@
         {
          "columns":15,
          "firstgid":74,
-         "image":"..\/Documents\/GitHub\/Impro\/Assets\/spot3.png",
+         "image":"..\/Assets\/spot3.png",
          "imageheight":384,
          "imagewidth":480,
          "margin":0,
@@ -1491,7 +1491,7 @@
         {
          "columns":8,
          "firstgid":254,
-         "image":"..\/Documents\/GitHub\/Impro\/Assets\/BaseChip_pipo.png",
+         "image":"..\/Assets\/BaseChip_pipo.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
@@ -1541,7 +1541,7 @@
         {
          "columns":4,
          "firstgid":1318,
-         "image":"..\/Documents\/GitHub\/Impro\/Assets\/logoimpr.png",
+         "image":"..\/Assets\/logoimpr.png",
          "imageheight":128,
          "imagewidth":128,
          "margin":0,
@@ -1554,7 +1554,7 @@
         {
          "columns":32,
          "firstgid":1334,
-         "image":"..\/Documents\/GitHub\/Impro\/Assets\/Interior.png",
+         "image":"..\/Assets\/Interior.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -1567,7 +1567,7 @@
         {
          "columns":16,
          "firstgid":2358,
-         "image":"..\/Documents\/GitHub\/Impro\/Assets\/house_inside.png",
+         "image":"..\/Assets\/house_inside.png",
          "imageheight":576,
          "imagewidth":512,
          "margin":0,
@@ -1580,7 +1580,7 @@
         {
          "columns":32,
          "firstgid":2646,
-         "image":"..\/Documents\/GitHub\/Impro\/Assets\/Interior 2.png",
+         "image":"..\/Assets\/Interior 2.png",
          "imageheight":832,
          "imagewidth":1024,
          "margin":0,
@@ -1593,7 +1593,7 @@
         {
          "columns":32,
          "firstgid":3478,
-         "image":"..\/Documents\/GitHub\/Impro\/Assets\/Outside Objects.png",
+         "image":"..\/Assets\/Outside Objects.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -1606,7 +1606,7 @@
         {
          "columns":32,
          "firstgid":4502,
-         "image":"..\/Documents\/GitHub\/Impro\/Assets\/Terrain_and_Outside.png",
+         "image":"..\/Assets\/Terrain_and_Outside.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -1619,7 +1619,7 @@
         {
          "columns":9,
          "firstgid":5526,
-         "image":"..\/Documents\/GitHub\/Impro\/Assets\/Moebel_by_dori.png",
+         "image":"..\/Assets\/Moebel_by_dori.png",
          "imageheight":288,
          "imagewidth":288,
          "margin":0,
@@ -1632,7 +1632,7 @@
         {
          "columns":16,
          "firstgid":5607,
-         "image":"..\/Documents\/GitHub\/Impro\/Assets\/upholstery-recolors.png",
+         "image":"..\/Assets\/upholstery-recolors.png",
          "imageheight":1024,
          "imagewidth":512,
          "margin":0,
@@ -1645,7 +1645,7 @@
         {
          "columns":9,
          "firstgid":6119,
-         "image":"..\/Documents\/GitHub\/Impro\/Assets\/Ronline.png",
+         "image":"..\/Assets\/Ronline.png",
          "imageheight":236,
          "imagewidth":288,
          "margin":0,
