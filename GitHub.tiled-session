@@ -846,7 +846,7 @@
         },
         "Stage/Galarie.json": {
             "scale": 0.75,
-            "selectedLayer": 1,
+            "selectedLayer": 26,
             "viewCenter": {
                 "x": -552,
                 "y": 265.33333333333326
@@ -877,11 +877,11 @@
             "expandedGroupLayers": [
                 4
             ],
-            "scale": 0.25,
-            "selectedLayer": 12,
+            "scale": 0.5,
+            "selectedLayer": 8,
             "viewCenter": {
-                "x": 1488,
-                "y": 1444
+                "x": 698,
+                "y": 654
             }
         },
         "Stage/Grundrisse/B8DG.json#Wall": {
@@ -895,18 +895,22 @@
         "Stage/Grundrisse/B8DG.json#house_inside": {
             "scaleInDock": 1
         },
+        "Stage/Grundrisse/B8DG.json#mapUtilities": {
+            "scaleInDock": 1
+        },
         "Stage/Grundrisse/B8DG.json#tilesets_deviant_milkian_1": {
             "scaleInDock": 1
         },
         "Stage/Grundrisse/B8OG.json": {
             "expandedGroupLayers": [
-                4
+                4,
+                5
             ],
             "scale": 0.23119140624999998,
-            "selectedLayer": 11,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 2560.648813043846,
-                "y": -1570.127566106277
+                "x": 2556.323392751542,
+                "y": 618.5351017994424
             }
         },
         "Stage/Grundrisse/B8OG.json#Wall": {
