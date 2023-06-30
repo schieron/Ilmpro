@@ -166,6 +166,12 @@
                  "id":8,
                  "name":"collidesOG",
                  "opacity":1,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }],
                  "type":"tilelayer",
                  "visible":true,
                  "width":160,
@@ -877,8 +883,19 @@
          "visible":false,
          "x":0,
          "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":21,
+         "name":"floorLayer",
+         "objects":[],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
         }],
- "nextlayerid":21,
+ "nextlayerid":22,
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
