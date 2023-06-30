@@ -851,8 +851,8 @@
             "scale": 0.75,
             "selectedLayer": 13,
             "viewCenter": {
-                "x": -552,
-                "y": 265.33333333333326
+                "x": -510.66666666666663,
+                "y": 264
             }
         },
         "Stage/Galarie.json#BaseChip_pipo": {
@@ -881,10 +881,10 @@
                 4
             ],
             "scale": 0.33,
-            "selectedLayer": 3,
+            "selectedLayer": 12,
             "viewCenter": {
-                "x": 1621.2121212121212,
-                "y": 1009.0909090909091
+                "x": 4300,
+                "y": 821.2121212121212
             }
         },
         "Stage/Grundrisse/B8DG.json#01_mate": {
@@ -913,10 +913,10 @@
                 5
             ],
             "scale": 0.33,
-            "selectedLayer": 3,
+            "selectedLayer": 12,
             "viewCenter": {
-                "x": 2300,
-                "y": 590.909090909091
+                "x": 4754.545454545455,
+                "y": 1087.878787878788
             }
         },
         "Stage/Grundrisse/B8OG.json#01_mate": {
@@ -935,6 +935,9 @@
         "Stage/Grundrisse/B8OG.json#Wall (1)": {
             "scaleInDock": 1,
             "scaleInEditor": 1
+        },
+        "Stage/Grundrisse/B8OG.json#food_and_drinks": {
+            "scaleInDock": 1
         },
         "Stage/Grundrisse/B8OG.json#house_inside": {
             "scaleInDock": 1,
@@ -986,6 +989,79 @@
             "scaleInDock": 1
         },
         "Stage/Grundrisse/StageBase.json#spot3": {
+            "scaleInDock": 1
+        },
+        "Stage/Grundrisse/TCDG.json": {
+            "scale": 0.1890625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 3041.3223140495866,
+                "y": 677.0247933884298
+            }
+        },
+        "Stage/Grundrisse/TCDG.json#01_mate": {
+            "scaleInDock": 1
+        },
+        "Stage/Grundrisse/TCDG.json#11_coffee2": {
+            "scaleInDock": 1
+        },
+        "Stage/Grundrisse/TCDG.json#Outside Objects": {
+            "scaleInDock": 1
+        },
+        "Stage/Grundrisse/TCDG.json#Wall": {
+            "scaleInDock": 1
+        },
+        "Stage/Grundrisse/TCDG.json#Wall (1)": {
+            "scaleInDock": 1
+        },
+        "Stage/Grundrisse/TCDG.json#food_and_drinks": {
+            "scaleInDock": 1
+        },
+        "Stage/Grundrisse/TCDG.json#house_inside": {
+            "scaleInDock": 1
+        },
+        "Stage/Grundrisse/TCDG.json#mapUtilities": {
+            "scaleInDock": 1
+        },
+        "Stage/Grundrisse/TCDG.json#tilesets_deviant_milkian_1": {
+            "scaleInDock": 1
+        },
+        "Stage/Grundrisse/TCOG.json": {
+            "expandedGroupLayers": [
+                5
+            ],
+            "scale": 0.33,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1642.4242424242423,
+                "y": 527.2727272727274
+            }
+        },
+        "Stage/Grundrisse/TCOG.json#01_mate": {
+            "scaleInDock": 1
+        },
+        "Stage/Grundrisse/TCOG.json#11_coffee2": {
+            "scaleInDock": 1
+        },
+        "Stage/Grundrisse/TCOG.json#Outside Objects": {
+            "scaleInDock": 1
+        },
+        "Stage/Grundrisse/TCOG.json#Wall": {
+            "scaleInDock": 1
+        },
+        "Stage/Grundrisse/TCOG.json#Wall (1)": {
+            "scaleInDock": 1
+        },
+        "Stage/Grundrisse/TCOG.json#food_and_drinks": {
+            "scaleInDock": 1
+        },
+        "Stage/Grundrisse/TCOG.json#house_inside": {
+            "scaleInDock": 1
+        },
+        "Stage/Grundrisse/TCOG.json#mapUtilities": {
+            "scaleInDock": 1
+        },
+        "Stage/Grundrisse/TCOG.json#tilesets_deviant_milkian_1": {
             "scaleInDock": 1
         },
         "Stage/Grundrisse/altherrenhausgrundriss.json": {
@@ -2034,7 +2110,7 @@
         }
     },
     "frame.defaultDuration": 900,
-    "last.exportedFilePath": "E:/Programming/Git/Ilmpro",
+    "last.exportedFilePath": "E:/Programming/Git/Ilmpro/Stage/Grundrisse/OG",
     "last.imagePath": "E:/Programming/Git/Ilmpro/Assets",
     "map.fixedSize": false,
     "map.height": 30,
@@ -2046,6 +2122,7 @@
     "project": "GitHub.tiled-project",
     "property.type": "bool",
     "recentFiles": [
+        "Stage/Grundrisse/TCOG.json",
         "Stage/Grundrisse/B8OG.json",
         "Stage/Grundrisse/B8DG.json",
         "Stage/backstage.json",
@@ -2056,8 +2133,7 @@
         "Stage/Stage3.json",
         "Stage/Stage2.json",
         "Stage/Stage1.json",
-        "Stage/probe.json",
-        "Stage/Galarie.json"
+        "Stage/probe.json"
     ],
     "resizeMap.removeObjects": true,
     "tileset.embedInMap": true,
