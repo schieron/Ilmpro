@@ -845,8 +845,11 @@
             "scaleInDock": 1
         },
         "Stage/Galarie.json": {
+            "expandedGroupLayers": [
+                21
+            ],
             "scale": 0.75,
-            "selectedLayer": 26,
+            "selectedLayer": 13,
             "viewCenter": {
                 "x": -552,
                 "y": 265.33333333333326
@@ -877,12 +880,15 @@
             "expandedGroupLayers": [
                 4
             ],
-            "scale": 0.5,
-            "selectedLayer": 8,
+            "scale": 0.33,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 698,
-                "y": 654
+                "x": 1621.2121212121212,
+                "y": 1009.0909090909091
             }
+        },
+        "Stage/Grundrisse/B8DG.json#01_mate": {
+            "scaleInDock": 1
         },
         "Stage/Grundrisse/B8DG.json#Wall": {
             "scaleInDock": 1,
@@ -906,11 +912,11 @@
                 4,
                 5
             ],
-            "scale": 0.23119140624999998,
-            "selectedLayer": 1,
+            "scale": 0.33,
+            "selectedLayer": 8,
             "viewCenter": {
-                "x": 2556.323392751542,
-                "y": 618.5351017994424
+                "x": 1427.272727272727,
+                "y": 996.969696969697
             }
         },
         "Stage/Grundrisse/B8OG.json#Wall": {
