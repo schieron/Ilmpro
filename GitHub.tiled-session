@@ -913,11 +913,20 @@
                 5
             ],
             "scale": 0.33,
-            "selectedLayer": 8,
+            "selectedLayer": 3,
             "viewCenter": {
-                "x": 1427.272727272727,
-                "y": 996.969696969697
+                "x": 2300,
+                "y": 590.909090909091
             }
+        },
+        "Stage/Grundrisse/B8OG.json#01_mate": {
+            "scaleInDock": 1
+        },
+        "Stage/Grundrisse/B8OG.json#11_coffee2": {
+            "scaleInDock": 1
+        },
+        "Stage/Grundrisse/B8OG.json#Outside Objects": {
+            "scaleInDock": 1
         },
         "Stage/Grundrisse/B8OG.json#Wall": {
             "scaleInDock": 1,
@@ -930,6 +939,9 @@
         "Stage/Grundrisse/B8OG.json#house_inside": {
             "scaleInDock": 1,
             "scaleInEditor": 1
+        },
+        "Stage/Grundrisse/B8OG.json#mapUtilities": {
+            "scaleInDock": 1
         },
         "Stage/Grundrisse/B8OG.json#tilesets_deviant_milkian_1": {
             "scaleInDock": 1,
